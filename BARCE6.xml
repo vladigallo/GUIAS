@@ -68,596 +68,140 @@
     <display-name lang="es">UNICABLE</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210515003000 -0500" stop="20210515012000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516003000 -0500" stop="20210516012000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Million Dollar Listing NY</title>
+  </programme>
+  <programme start="20210516012000 -0500" stop="20210516021000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Keeping up with Kardashians</title>
   </programme>
-  <programme start="20210515012000 -0500" stop="20210515021000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516021000 -0500" stop="20210516030000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Keeping up with Kardashians</title>
   </programme>
-  <programme start="20210515021000 -0500" stop="20210515030000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
+  <programme start="20210516030000 -0500" stop="20210516035000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Keeping up with Kardashians</title>
   </programme>
-  <programme start="20210515030000 -0500" stop="20210515035000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
+  <programme start="20210516035000 -0500" stop="20210516044000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Total bellas</title>
   </programme>
-  <programme start="20210515035000 -0500" stop="20210515044000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Hollywood medium with Tyler</title>
+  <programme start="20210516044000 -0500" stop="20210516053000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Total bellas</title>
   </programme>
-  <programme start="20210515044000 -0500" stop="20210515053000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Hollywood medium with Tyler</title>
-  </programme>
-  <programme start="20210515053000 -0500" stop="20210515060000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516053000 -0500" stop="20210516060000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Meet the Frasers</title>
   </programme>
-  <programme start="20210515060000 -0500" stop="20210515064500 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516060000 -0500" stop="20210516064500 -0500" channel="ENTERTAINMENT">
     <title lang="es">Hollywood medium with Tyler</title>
   </programme>
-  <programme start="20210515064500 -0500" stop="20210515073000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516064500 -0500" stop="20210516073000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Hollywood medium with Tyler</title>
   </programme>
-  <programme start="20210515073000 -0500" stop="20210515081500 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516073000 -0500" stop="20210516081500 -0500" channel="ENTERTAINMENT">
     <title lang="es">Hollywood medium with Tyler</title>
   </programme>
-  <programme start="20210515081500 -0500" stop="20210515090000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516081500 -0500" stop="20210516090000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Botched</title>
   </programme>
-  <programme start="20210515090000 -0500" stop="20210515093000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516090000 -0500" stop="20210516093000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Meet the Frasers</title>
   </programme>
-  <programme start="20210515093000 -0500" stop="20210515095500 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516093000 -0500" stop="20210516095500 -0500" channel="ENTERTAINMENT">
     <title lang="es">10 cosas que no sabes</title>
   </programme>
-  <programme start="20210515095500 -0500" stop="20210515102000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516095500 -0500" stop="20210516102000 -0500" channel="ENTERTAINMENT">
     <title lang="es">10 cosas que no sabes</title>
   </programme>
-  <programme start="20210515102000 -0500" stop="20210515111000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210515111000 -0500" stop="20210515120000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210515120000 -0500" stop="20210515125000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210515125000 -0500" stop="20210515134000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210515134000 -0500" stop="20210515143000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
-  </programme>
-  <programme start="20210515143000 -0500" stop="20210515152000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
-  </programme>
-  <programme start="20210515152000 -0500" stop="20210515161000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516102000 -0500" stop="20210516111000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Botched</title>
   </programme>
-  <programme start="20210515161000 -0500" stop="20210515170000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516111000 -0500" stop="20210516120000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Total bellas</title>
+  </programme>
+  <programme start="20210516120000 -0500" stop="20210516125000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Total bellas</title>
+  </programme>
+  <programme start="20210516125000 -0500" stop="20210516134000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Bajo cubierta</title>
   </programme>
-  <programme start="20210515170000 -0500" stop="20210515175000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516134000 -0500" stop="20210516143000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Bajo cubierta</title>
   </programme>
-  <programme start="20210515175000 -0500" stop="20210515184000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516143000 -0500" stop="20210516152000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20210516152000 -0500" stop="20210516161000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20210516161000 -0500" stop="20210516170000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Keeping up with Kardashians</title>
   </programme>
-  <programme start="20210515184000 -0500" stop="20210515193000 -0500" channel="ENTERTAINMENT">
+  <programme start="20210516170000 -0500" stop="20210516175000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Keeping up with Kardashians</title>
   </programme>
-  <programme start="20210515193000 -0500" stop="20210515202000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
+  <programme start="20210516175000 -0500" stop="20210516184000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Botched</title>
   </programme>
-  <programme start="20210515202000 -0500" stop="20210515211000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
+  <programme start="20210516184000 -0500" stop="20210516193000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Botched</title>
   </programme>
-  <programme start="20210515211000 -0500" stop="20210515220000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
+  <programme start="20210516193000 -0500" stop="20210516202000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Million dollar listing L.A</title>
   </programme>
-  <programme start="20210515220000 -0500" stop="20210515225000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
+  <programme start="20210516202000 -0500" stop="20210516211000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Million dollar listing L.A</title>
   </programme>
-  <programme start="20210515225000 -0500" stop="20210515234000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
+  <programme start="20210516211000 -0500" stop="20210516220000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Million dollar listing L.A</title>
   </programme>
-  <programme start="20210515234000 -0500" stop="20210516003000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
+  <programme start="20210516220000 -0500" stop="20210516225000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Million dollar listing L.A</title>
+  </programme>
+  <programme start="20210516225000 -0500" stop="20210516234000 -0500" channel="ENTERTAINMENT">
+    <title lang="es">Million dollar listing L.A</title>
   </programme>
   <programme start="20210516234000 -0500" stop="20210517003000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
-  </programme>
-  <programme start="20210517003000 -0500" stop="20210517012000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million Dollar Listing NY</title>
-  </programme>
-  <programme start="20210517021000 -0500" stop="20210517030000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210517030000 -0500" stop="20210517035000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210517035000 -0500" stop="20210517044000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Total bellas</title>
-  </programme>
-  <programme start="20210517044000 -0500" stop="20210517053000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Total bellas</title>
-  </programme>
-  <programme start="20210517102000 -0500" stop="20210517111000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210517111000 -0500" stop="20210517120000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Total bellas</title>
-  </programme>
-  <programme start="20210517120000 -0500" stop="20210517125000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Total bellas</title>
-  </programme>
-  <programme start="20210517125000 -0500" stop="20210517134000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20210517134000 -0500" stop="20210517143000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20210517143000 -0500" stop="20210517152000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20210517152000 -0500" stop="20210517161000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20210517161000 -0500" stop="20210517170000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210517170000 -0500" stop="20210517175000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210517175000 -0500" stop="20210517184000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210517184000 -0500" stop="20210517193000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210517193000 -0500" stop="20210517202000 -0500" channel="ENTERTAINMENT">
     <title lang="es">Million dollar listing L.A</title>
   </programme>
-  <programme start="20210517202000 -0500" stop="20210517211000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210517211000 -0500" stop="20210517220000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210517220000 -0500" stop="20210517225000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210517225000 -0500" stop="20210517234000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210517234000 -0500" stop="20210518003000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210518234000 -0500" stop="20210519003000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210519003000 -0500" stop="20210519012000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Million dollar listing L.A</title>
-  </programme>
-  <programme start="20210519012000 -0500" stop="20210519021000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210519060000 -0500" stop="20210519065500 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Very Cavallari</title>
-  </programme>
-  <programme start="20210519065500 -0500" stop="20210519075000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Very Cavallari</title>
-  </programme>
-  <programme start="20210519075000 -0500" stop="20210519084500 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Hollywood medium with Tyler</title>
-  </programme>
-  <programme start="20210519084500 -0500" stop="20210519094000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Hollywood medium with Tyler</title>
-  </programme>
-  <programme start="20210519094000 -0500" stop="20210519103500 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210519103500 -0500" stop="20210519113000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210519113000 -0500" stop="20210519122500 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210519122500 -0500" stop="20210519132000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210519132000 -0500" stop="20210519135000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Younger</title>
-  </programme>
-  <programme start="20210519135000 -0500" stop="20210519141500 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Younger</title>
-  </programme>
-  <programme start="20210519141500 -0500" stop="20210519144500 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Younger</title>
-  </programme>
-  <programme start="20210519144500 -0500" stop="20210519151000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Younger</title>
-  </programme>
-  <programme start="20210519151000 -0500" stop="20210519154000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">10 cosas que no sabes</title>
-  </programme>
-  <programme start="20210519154000 -0500" stop="20210519161000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">10 cosas que no sabes</title>
-  </programme>
-  <programme start="20210519161000 -0500" stop="20210519170000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Hollywood medium with Tyler</title>
-  </programme>
-  <programme start="20210519175000 -0500" stop="20210519184000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20210519193000 -0500" stop="20210519202000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20210519202000 -0500" stop="20210519211000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210519211000 -0500" stop="20210519220000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210519220000 -0500" stop="20210519225000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20210519225000 -0500" stop="20210519231500 -0500" channel="ENTERTAINMENT">
-    <title lang="es">Cenando con Lisa Vanderpump</title>
-  </programme>
-  <programme start="20210519231500 -0500" stop="20210519234000 -0500" channel="ENTERTAINMENT">
-    <title lang="es">10 cosas que no sabes</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515040000 -0500" channel="BITME">
+  <programme start="20210516003000 -0500" stop="20210516020000 -0500" channel="BITME">
     <title lang="es">Arpeggio of Blue Steel</title>
   </programme>
-  <programme start="20210515040000 -0500" stop="20210515053000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210515053000 -0500" stop="20210515073000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210515073000 -0500" stop="20210515093000 -0500" channel="BITME">
-    <title lang="es">Naruto</title>
-  </programme>
-  <programme start="20210515093000 -0500" stop="20210515113000 -0500" channel="BITME">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20210515113000 -0500" stop="20210515133000 -0500" channel="BITME">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20210515133000 -0500" stop="20210515150000 -0500" channel="BITME">
-    <title lang="es">Deep el Pulpo</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515163000 -0500" channel="BITME">
-    <title lang="es">Shaolin Soccer</title>
-  </programme>
-  <programme start="20210515163000 -0500" stop="20210515183000 -0500" channel="BITME">
-    <title lang="es">Los Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210515183000 -0500" stop="20210515200000 -0500" channel="BITME">
-    <title lang="es">Universo marcial</title>
-  </programme>
-  <programme start="20210515200000 -0500" stop="20210515213000 -0500" channel="BITME">
-    <title lang="es">Trece miedos</title>
-  </programme>
-  <programme start="20210515213000 -0500" stop="20210515223000 -0500" channel="BITME">
-    <title lang="es">Tsugumomo</title>
-  </programme>
-  <programme start="20210515223000 -0500" stop="20210516003000 -0500" channel="BITME">
-    <title lang="es">American Pastoral</title>
-  </programme>
-  <programme start="20210516223000 -0500" stop="20210517003000 -0500" channel="BITME">
-    <title lang="es">American Pastoral</title>
-  </programme>
-  <programme start="20210517003000 -0500" stop="20210517020000 -0500" channel="BITME">
-    <title lang="es">Arpeggio of Blue Steel</title>
-  </programme>
-  <programme start="20210517020000 -0500" stop="20210517040000 -0500" channel="BITME">
+  <programme start="20210516020000 -0500" stop="20210516040000 -0500" channel="BITME">
     <title lang="es">Strike the Blood</title>
   </programme>
-  <programme start="20210517040000 -0500" stop="20210517053000 -0500" channel="BITME">
+  <programme start="20210516040000 -0500" stop="20210516053000 -0500" channel="BITME">
     <title lang="es">Fullmetal Alchemist</title>
   </programme>
-  <programme start="20210517053000 -0500" stop="20210517073000 -0500" channel="BITME">
+  <programme start="20210516053000 -0500" stop="20210516073000 -0500" channel="BITME">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20210517073000 -0500" stop="20210517093000 -0500" channel="BITME">
+  <programme start="20210516073000 -0500" stop="20210516093000 -0500" channel="BITME">
     <title lang="es">Tales of Zestiria the cross</title>
   </programme>
-  <programme start="20210517093000 -0500" stop="20210517113000 -0500" channel="BITME">
+  <programme start="20210516093000 -0500" stop="20210516113000 -0500" channel="BITME">
     <title lang="es">el chavo animado</title>
   </programme>
-  <programme start="20210517113000 -0500" stop="20210517133000 -0500" channel="BITME">
+  <programme start="20210516113000 -0500" stop="20210516133000 -0500" channel="BITME">
     <title lang="es">Guerreras mágicas</title>
   </programme>
-  <programme start="20210517133000 -0500" stop="20210517150000 -0500" channel="BITME">
+  <programme start="20210516133000 -0500" stop="20210516150000 -0500" channel="BITME">
     <title lang="es">La leyenda de la llorona</title>
   </programme>
-  <programme start="20210517150000 -0500" stop="20210517163000 -0500" channel="BITME">
+  <programme start="20210516150000 -0500" stop="20210516163000 -0500" channel="BITME">
     <title lang="es">Guardians</title>
   </programme>
-  <programme start="20210517163000 -0500" stop="20210517183000 -0500" channel="BITME">
+  <programme start="20210516163000 -0500" stop="20210516183000 -0500" channel="BITME">
     <title lang="es">Los Caballeros del Zodiaco</title>
   </programme>
-  <programme start="20210517183000 -0500" stop="20210517200000 -0500" channel="BITME">
+  <programme start="20210516183000 -0500" stop="20210516200000 -0500" channel="BITME">
     <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210517200000 -0500" stop="20210517213000 -0500" channel="BITME">
+  <programme start="20210516200000 -0500" stop="20210516213000 -0500" channel="BITME">
     <title lang="es">Trece miedos</title>
   </programme>
-  <programme start="20210517213000 -0500" stop="20210517223000 -0500" channel="BITME">
+  <programme start="20210516213000 -0500" stop="20210516223000 -0500" channel="BITME">
     <title lang="es">Tsugumomo</title>
   </programme>
-  <programme start="20210517223000 -0500" stop="20210518000000 -0500" channel="BITME">
+  <programme start="20210516223000 -0500" stop="20210517000000 -0500" channel="BITME">
     <title lang="es">Future World</title>
-  </programme>
-  <programme start="20210518000000 -0500" stop="20210518003000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210518003000 -0500" stop="20210518010000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210518010000 -0500" stop="20210518013000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210518013000 -0500" stop="20210518020000 -0500" channel="BITME">
-    <title lang="es">Strike the Blood</title>
-  </programme>
-  <programme start="20210518020000 -0500" stop="20210518023000 -0500" channel="BITME">
-    <title lang="es">Tsugumomo</title>
-  </programme>
-  <programme start="20210518023000 -0500" stop="20210518030000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210518030000 -0500" stop="20210518033000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210518033000 -0500" stop="20210518040000 -0500" channel="BITME">
-    <title lang="es">Arpeggio of Blue Steel</title>
-  </programme>
-  <programme start="20210518040000 -0500" stop="20210518043000 -0500" channel="BITME">
-    <title lang="es">Arpeggio of Blue Steel</title>
-  </programme>
-  <programme start="20210518043000 -0500" stop="20210518050000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210518050000 -0500" stop="20210518053000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210518053000 -0500" stop="20210518070000 -0500" channel="BITME">
-    <title lang="es">Universo marcial</title>
-  </programme>
-  <programme start="20210518070000 -0500" stop="20210518073000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210518073000 -0500" stop="20210518080000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210518080000 -0500" stop="20210518083000 -0500" channel="BITME">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20210518083000 -0500" stop="20210518090000 -0500" channel="BITME">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20210518090000 -0500" stop="20210518093000 -0500" channel="BITME">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20210518093000 -0500" stop="20210518110000 -0500" channel="BITME">
-    <title lang="es">Aaa, la película</title>
-  </programme>
-  <programme start="20210518110000 -0500" stop="20210518113000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210518113000 -0500" stop="20210518120000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210518120000 -0500" stop="20210518123000 -0500" channel="BITME">
-    <title lang="es">Naruto</title>
-  </programme>
-  <programme start="20210518123000 -0500" stop="20210518130000 -0500" channel="BITME">
-    <title lang="es">Naruto</title>
-  </programme>
-  <programme start="20210518130000 -0500" stop="20210518133000 -0500" channel="BITME">
-    <title lang="es">Guerreras mágicas</title>
-  </programme>
-  <programme start="20210518133000 -0500" stop="20210518140000 -0500" channel="BITME">
-    <title lang="es">Guerreras mágicas</title>
-  </programme>
-  <programme start="20210518140000 -0500" stop="20210518143000 -0500" channel="BITME">
-    <title lang="es">Mazinger Z</title>
-  </programme>
-  <programme start="20210518143000 -0500" stop="20210518150000 -0500" channel="BITME">
-    <title lang="es">Mazinger Z</title>
-  </programme>
-  <programme start="20210518150000 -0500" stop="20210518153000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210518153000 -0500" stop="20210518160000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210518160000 -0500" stop="20210518163000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210518163000 -0500" stop="20210518170000 -0500" channel="BITME">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518173000 -0500" channel="BITME">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20210518173000 -0500" stop="20210518180000 -0500" channel="BITME">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518183000 -0500" channel="BITME">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20210518183000 -0500" stop="20210518203000 -0500" channel="BITME">
-    <title lang="es">Otra película de huevos</title>
-  </programme>
-  <programme start="20210518203000 -0500" stop="20210518210000 -0500" channel="BITME">
-    <title lang="es">Mazinger Z</title>
-  </programme>
-  <programme start="20210518210000 -0500" stop="20210518220000 -0500" channel="BITME">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210518220000 -0500" stop="20210518223000 -0500" channel="BITME">
-    <title lang="es">Trece miedos</title>
-  </programme>
-  <programme start="20210518223000 -0500" stop="20210518230000 -0500" channel="BITME">
-    <title lang="es">Trece miedos</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210518233000 -0500" channel="BITME">
-    <title lang="es">Tsugumomo</title>
-  </programme>
-  <programme start="20210518233000 -0500" stop="20210519000000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210519000000 -0500" stop="20210519003000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210519003000 -0500" stop="20210519010000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210519010000 -0500" stop="20210519013000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210519013000 -0500" stop="20210519020000 -0500" channel="BITME">
-    <title lang="es">Strike the Blood</title>
-  </programme>
-  <programme start="20210519020000 -0500" stop="20210519023000 -0500" channel="BITME">
-    <title lang="es">Tsugumomo</title>
-  </programme>
-  <programme start="20210519023000 -0500" stop="20210519030000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210519030000 -0500" stop="20210519033000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210519033000 -0500" stop="20210519040000 -0500" channel="BITME">
-    <title lang="es">Arpeggio of Blue Steel</title>
-  </programme>
-  <programme start="20210519040000 -0500" stop="20210519043000 -0500" channel="BITME">
-    <title lang="es">Arpeggio of Blue Steel</title>
-  </programme>
-  <programme start="20210519043000 -0500" stop="20210519050000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210519050000 -0500" stop="20210519053000 -0500" channel="BITME">
-    <title lang="es">Fullmetal Alchemist</title>
-  </programme>
-  <programme start="20210519070000 -0500" stop="20210519073000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210519073000 -0500" stop="20210519080000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210519080000 -0500" stop="20210519083000 -0500" channel="BITME">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20210519093000 -0500" stop="20210519113000 -0500" channel="BITME">
-    <title lang="es">Otra película de huevos</title>
-  </programme>
-  <programme start="20210519113000 -0500" stop="20210519120000 -0500" channel="BITME">
-    <title lang="es">Tales of Zestiria the cross</title>
-  </programme>
-  <programme start="20210519120000 -0500" stop="20210519123000 -0500" channel="BITME">
-    <title lang="es">Naruto</title>
-  </programme>
-  <programme start="20210519123000 -0500" stop="20210519130000 -0500" channel="BITME">
-    <title lang="es">Naruto</title>
-  </programme>
-  <programme start="20210519130000 -0500" stop="20210519133000 -0500" channel="BITME">
-    <title lang="es">Guerreras mágicas</title>
-  </programme>
-  <programme start="20210519133000 -0500" stop="20210519140000 -0500" channel="BITME">
-    <title lang="es">Guerreras mágicas</title>
-  </programme>
-  <programme start="20210519140000 -0500" stop="20210519143000 -0500" channel="BITME">
-    <title lang="es">Mazinger Z</title>
-  </programme>
-  <programme start="20210519143000 -0500" stop="20210519150000 -0500" channel="BITME">
-    <title lang="es">Mazinger Z</title>
-  </programme>
-  <programme start="20210519150000 -0500" stop="20210519153000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210519153000 -0500" stop="20210519160000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210519160000 -0500" stop="20210519163000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210519163000 -0500" stop="20210519170000 -0500" channel="BITME">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20210519170000 -0500" stop="20210519173000 -0500" channel="BITME">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20210519173000 -0500" stop="20210519180000 -0500" channel="BITME">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20210519180000 -0500" stop="20210519183000 -0500" channel="BITME">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20210519183000 -0500" stop="20210519203000 -0500" channel="BITME">
-    <title lang="es">My Little Pony la película</title>
-  </programme>
-  <programme start="20210519203000 -0500" stop="20210519210000 -0500" channel="BITME">
-    <title lang="es">Mazinger Z</title>
-  </programme>
-  <programme start="20210519210000 -0500" stop="20210519220000 -0500" channel="BITME">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210519220000 -0500" stop="20210519223000 -0500" channel="BITME">
-    <title lang="es">Trece miedos</title>
-  </programme>
-  <programme start="20210519223000 -0500" stop="20210519230000 -0500" channel="BITME">
-    <title lang="es">Trece miedos</title>
-  </programme>
-  <programme start="20210519230000 -0500" stop="20210519233000 -0500" channel="BITME">
-    <title lang="es">Tsugumomo</title>
-  </programme>
-  <programme start="20210519233000 -0500" stop="20210520000000 -0500" channel="BITME">
-    <title lang="es">Caballeros del Zodiaco</title>
-  </programme>
-  <programme start="20210515010000 -0500" stop="20210515020000 -0500" channel="ESPN">
-    <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515030000 -0500" channel="ESPN">
-    <title lang="es">ESPN FC Show</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515040000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20210515040000 -0500" stop="20210515043000 -0500" channel="ESPN">
-    <title lang="es">Aguas arriba</title>
-  </programme>
-  <programme start="20210515043000 -0500" stop="20210515050000 -0500" channel="ESPN">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515053000 -0500" channel="ESPN">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20210515053000 -0500" stop="20210515103000 -0500" channel="ESPN">
-    <title lang="es">Giro d'Italia</title>
-  </programme>
-  <programme start="20210515103000 -0500" stop="20210515113000 -0500" channel="ESPN">
-    <title lang="es">ESPN Ciclismo En Vivo</title>
-  </programme>
-  <programme start="20210515113000 -0500" stop="20210515130000 -0500" channel="ESPN">
-    <title lang="es">Chelsea vs. Leicester City En Vivo</title>
-  </programme>
-  <programme start="20210515130000 -0500" stop="20210515133000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210515133000 -0500" stop="20210515160000 -0500" channel="ESPN">
-    <title lang="es">Roma vs. Lazio En Vivo</title>
-  </programme>
-  <programme start="20210515160000 -0500" stop="20210515170000 -0500" channel="ESPN">
-    <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20210515170000 -0500" stop="20210515210000 -0500" channel="ESPN">
-    <title lang="es">ESPN Knockout: UFC: Preliminaries En Vivo</title>
-  </programme>
-  <programme start="20210515210000 -0500" stop="20210516030000 -0500" channel="ESPN">
-    <title lang="es">ESPN Knockout En Vivo</title>
   </programme>
   <programme start="20210516030000 -0500" stop="20210516050000 -0500" channel="ESPN">
     <title lang="es">SportsCenter</title>
@@ -670,129 +214,6 @@
   </programme>
   <programme start="20210516113000 -0500" stop="20210517010000 -0500" channel="ESPN">
     <title lang="es">ESPN W</title>
-  </programme>
-  <programme start="20210517010000 -0500" stop="20210517020000 -0500" channel="ESPN">
-    <title lang="es">Highlights - PGA Tour: The Players Official Film</title>
-  </programme>
-  <programme start="20210517020000 -0500" stop="20210517030000 -0500" channel="ESPN">
-    <title lang="es">Juventus vs. Inter de Milán</title>
-  </programme>
-  <programme start="20210517050000 -0500" stop="20210517060000 -0500" channel="ESPN">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20210517060000 -0500" stop="20210517063000 -0500" channel="ESPN">
-    <title lang="es">ESPN W</title>
-  </programme>
-  <programme start="20210517063000 -0500" stop="20210517103000 -0500" channel="ESPN">
-    <title lang="es">Giro d'Italia En Vivo</title>
-  </programme>
-  <programme start="20210517113000 -0500" stop="20210517130000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517133000 -0500" channel="ESPN">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20210517133000 -0500" stop="20210517140000 -0500" channel="ESPN">
-    <title lang="es">Aguas arriba</title>
-  </programme>
-  <programme start="20210517140000 -0500" stop="20210517150000 -0500" channel="ESPN">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20210517150000 -0500" stop="20210517160000 -0500" channel="ESPN">
-    <title lang="es">Juventus vs. Inter de Milán</title>
-  </programme>
-  <programme start="20210517160000 -0500" stop="20210517170000 -0500" channel="ESPN">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20210517170000 -0500" stop="20210517200000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210517200000 -0500" stop="20210517220000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210517220000 -0500" stop="20210518030000 -0500" channel="ESPN">
-    <title lang="es">Goles de Europa</title>
-  </programme>
-  <programme start="20210518040000 -0500" stop="20210518043000 -0500" channel="ESPN">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20210518043000 -0500" stop="20210518060000 -0500" channel="ESPN">
-    <title lang="es">ESPN X</title>
-  </programme>
-  <programme start="20210518060000 -0500" stop="20210518070000 -0500" channel="ESPN">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20210518070000 -0500" stop="20210518080000 -0500" channel="ESPN">
-    <title lang="es">Juventus vs. Inter de Milán</title>
-  </programme>
-  <programme start="20210518080000 -0500" stop="20210518100000 -0500" channel="ESPN">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20210518100000 -0500" stop="20210518115000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210518115000 -0500" stop="20210518150000 -0500" channel="ESPN">
-    <title lang="es">Manchester United vs. Fulham En Vivo</title>
-  </programme>
-  <programme start="20210518150000 -0500" stop="20210518170000 -0500" channel="ESPN">
-    <title lang="es">#Redes En Vivo</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518180000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518200000 -0500" channel="ESPN">
-    <title lang="es">ESPN tenis</title>
-  </programme>
-  <programme start="20210518200000 -0500" stop="20210519030000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210515010000 -0500" stop="20210515020000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515030000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515035500 -0500" channel="ESPN 2">
-    <title lang="es">Simplemente Futbol</title>
-  </programme>
-  <programme start="20210515035500 -0500" stop="20210515045300 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210515045300 -0500" stop="20210515055000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210515055000 -0500" stop="20210515062000 -0500" channel="ESPN 2">
-    <title lang="es">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20210515062000 -0500" stop="20210515083000 -0500" channel="ESPN 2">
-    <title lang="es">Burnley vs. Leeds United En Vivo</title>
-  </programme>
-  <programme start="20210515083000 -0500" stop="20210515110000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515133000 -0500" channel="ESPN 2">
-    <title lang="es">Chelsea vs. Leicester En Vivo</title>
-  </programme>
-  <programme start="20210515133000 -0500" stop="20210515152000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210515152000 -0500" stop="20210515173000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter - Relato En Vivo</title>
-  </programme>
-  <programme start="20210515173000 -0500" stop="20210515185000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter Sur En Vivo</title>
-  </programme>
-  <programme start="20210515185000 -0500" stop="20210515213000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter - Relato En Vivo</title>
-  </programme>
-  <programme start="20210515213000 -0500" stop="20210515223000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F nacional En Vivo</title>
-  </programme>
-  <programme start="20210515223000 -0500" stop="20210515230000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210515230000 -0500" stop="20210516000000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A En Vivo</title>
   </programme>
   <programme start="20210516010000 -0500" stop="20210516015800 -0500" channel="ESPN 2">
     <title lang="es">SportsCenter L.A</title>
@@ -815,6 +236,12 @@
   <programme start="20210516112000 -0500" stop="20210516133000 -0500" channel="ESPN 2">
     <title lang="es">Barcelona vs. Celta de Vigo En Vivo</title>
   </programme>
+  <programme start="20210516133000 -0500" stop="20210516152000 -0500" channel="ESPN 2">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20210516152000 -0500" stop="20210516173000 -0500" channel="ESPN 2">
+    <title lang="es">SportsCenter - Relato En Vivo</title>
+  </programme>
   <programme start="20210516173000 -0500" stop="20210516193000 -0500" channel="ESPN 2">
     <title lang="es">ESPN F10 En Vivo</title>
   </programme>
@@ -826,126 +253,6 @@
   </programme>
   <programme start="20210516223000 -0500" stop="20210517000000 -0500" channel="ESPN 2">
     <title lang="es">SportsCenter L.A En Vivo</title>
-  </programme>
-  <programme start="20210517000000 -0500" stop="20210517013000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210517013000 -0500" stop="20210517030000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210517030000 -0500" stop="20210517040000 -0500" channel="ESPN 2">
-    <title lang="es">Simplemente Futbol</title>
-  </programme>
-  <programme start="20210517040000 -0500" stop="20210517043000 -0500" channel="ESPN 2">
-    <title lang="es">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20210517043000 -0500" stop="20210517060000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210517060000 -0500" stop="20210517100000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter - edición de mediodía En Vivo</title>
-  </programme>
-  <programme start="20210517100000 -0500" stop="20210517110000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F12 En Vivo</title>
-  </programme>
-  <programme start="20210517110000 -0500" stop="20210517130000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F90 Primera edición En Vivo</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517150000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F360 En Vivo</title>
-  </programme>
-  <programme start="20210517150000 -0500" stop="20210517170000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210517170000 -0500" stop="20210517190000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F90 Segunda edición En Vivo</title>
-  </programme>
-  <programme start="20210517190000 -0500" stop="20210517210000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter Sur En Vivo</title>
-  </programme>
-  <programme start="20210517210000 -0500" stop="20210517220000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F Show En Vivo</title>
-  </programme>
-  <programme start="20210517220000 -0500" stop="20210517230000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210518030000 -0500" stop="20210518033000 -0500" channel="ESPN 2">
-    <title lang="es">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20210518033000 -0500" stop="20210518040000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20210518040000 -0500" stop="20210518050000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210518050000 -0500" stop="20210518060000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A</title>
-  </programme>
-  <programme start="20210518110000 -0500" stop="20210518125000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F90 Primera edición En Vivo</title>
-  </programme>
-  <programme start="20210518125000 -0500" stop="20210518150000 -0500" channel="ESPN 2">
-    <title lang="es">Brighton vs. Manchester City En Vivo</title>
-  </programme>
-  <programme start="20210518150000 -0500" stop="20210518170000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter Sur En Vivo</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518191500 -0500" channel="ESPN 2">
-    <title lang="es">Independiente vs. Bahia En Vivo</title>
-  </programme>
-  <programme start="20210518191500 -0500" stop="20210518213000 -0500" channel="ESPN 2">
-    <title lang="es">Sao Paulo vs. Racing En Vivo</title>
-  </programme>
-  <programme start="20210518213000 -0500" stop="20210518223000 -0500" channel="ESPN 2">
-    <title lang="es">ESPN F Show En Vivo</title>
-  </programme>
-  <programme start="20210518223000 -0500" stop="20210518233000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter En Vivo</title>
-  </programme>
-  <programme start="20210518233000 -0500" stop="20210519003000 -0500" channel="ESPN 2">
-    <title lang="es">SportsCenter L.A En Vivo</title>
-  </programme>
-  <programme start="20210515013000 -0500" stop="20210515020000 -0500" channel="ESPN 3">
-    <title lang="es">Italian Serie A Highlights</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515030000 -0500" channel="ESPN 3">
-    <title lang="es">Italian Serie A Highlights</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515040000 -0500" channel="ESPN 3">
-    <title lang="es">Scrum</title>
-  </programme>
-  <programme start="20210515040000 -0500" stop="20210515044500 -0500" channel="ESPN 3">
-    <title lang="es">Tenis</title>
-  </programme>
-  <programme start="20210515044500 -0500" stop="20210515060000 -0500" channel="ESPN 3">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20210515060000 -0500" stop="20210515100000 -0500" channel="ESPN 3">
-    <title lang="es">Tenis</title>
-  </programme>
-  <programme start="20210515100000 -0500" stop="20210515110000 -0500" channel="ESPN 3">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515140000 -0500" channel="ESPN 3">
-    <title lang="es">Fútbol italiano Serie A</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515160000 -0500" channel="ESPN 3">
-    <title lang="es">Rugby union Top 14 de Francia</title>
-  </programme>
-  <programme start="20210515160000 -0500" stop="20210515183000 -0500" channel="ESPN 3">
-    <title lang="es">Americas Rugby Championship</title>
-  </programme>
-  <programme start="20210515183000 -0500" stop="20210515200000 -0500" channel="ESPN 3">
-    <title lang="es">Fútbol FA Cup</title>
-  </programme>
-  <programme start="20210515200000 -0500" stop="20210515210000 -0500" channel="ESPN 3">
-    <title lang="es">Fútbol italiano Serie A</title>
-  </programme>
-  <programme start="20210515210000 -0500" stop="20210515220000 -0500" channel="ESPN 3">
-    <title lang="es">Boxeo</title>
-  </programme>
-  <programme start="20210515220000 -0500" stop="20210516011000 -0500" channel="ESPN 3">
-    <title lang="es">ESPN Compact</title>
   </programme>
   <programme start="20210516011000 -0500" stop="20210516013000 -0500" channel="ESPN 3">
     <title lang="es">A confirmar</title>
@@ -979,99 +286,6 @@
   </programme>
   <programme start="20210516233000 -0500" stop="20210517014500 -0500" channel="ESPN 3">
     <title lang="es">UEFA Women's Champions League</title>
-  </programme>
-  <programme start="20210517233000 -0500" stop="20210518014500 -0500" channel="ESPN 3">
-    <title lang="es">UEFA Women's Champions League</title>
-  </programme>
-  <programme start="20210518014500 -0500" stop="20210518020000 -0500" channel="ESPN 3">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20210518020000 -0500" stop="20210518041500 -0500" channel="ESPN 3">
-    <title lang="es">Fútbol femenino UEFA Women's Champions League</title>
-  </programme>
-  <programme start="20210518041500 -0500" stop="20210518103000 -0500" channel="ESPN 3">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20210518103000 -0500" stop="20210518133000 -0500" channel="ESPN 3">
-    <title lang="es">Moto Grand Prix F.I.M</title>
-  </programme>
-  <programme start="20210518133000 -0500" stop="20210518150000 -0500" channel="ESPN 3">
-    <title lang="es">Scrum</title>
-  </programme>
-  <programme start="20210518150000 -0500" stop="20210518160000 -0500" channel="ESPN 3">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20210518160000 -0500" stop="20210518163000 -0500" channel="ESPN 3">
-    <title lang="es">ESPN X</title>
-  </programme>
-  <programme start="20210518163000 -0500" stop="20210518170000 -0500" channel="ESPN 3">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518180000 -0500" channel="ESPN 3">
-    <title lang="es">Goles de Europa</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518210000 -0500" channel="ESPN 3">
-    <title lang="es">Beisbol MLB</title>
-  </programme>
-  <programme start="20210518210000 -0500" stop="20210518220000 -0500" channel="ESPN 3">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20210518220000 -0500" stop="20210518230000 -0500" channel="ESPN 3">
-    <title lang="es">Goles de Europa</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210519030000 -0500" channel="ESPN 3">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20210519230000 -0500" stop="20210520030000 -0500" channel="ESPN 3">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20210515004000 -0500" stop="20210515021000 -0500" channel="ESPN XTRA">
-    <title lang="es">FINA World Diving Cup 2021</title>
-  </programme>
-  <programme start="20210515021000 -0500" stop="20210515024000 -0500" channel="ESPN XTRA">
-    <title lang="es">NBA Action</title>
-  </programme>
-  <programme start="20210515024000 -0500" stop="20210515031500 -0500" channel="ESPN XTRA">
-    <title lang="es">A.T.P. Tour Uncovered</title>
-  </programme>
-  <programme start="20210515031500 -0500" stop="20210515034500 -0500" channel="ESPN XTRA">
-    <title lang="es">Serie A Preview Show</title>
-  </programme>
-  <programme start="20210515034500 -0500" stop="20210515044500 -0500" channel="ESPN XTRA">
-    <title lang="es">FA Cup Preview</title>
-  </programme>
-  <programme start="20210515044500 -0500" stop="20210515065000 -0500" channel="ESPN XTRA">
-    <title lang="es">Rebels vs. Blues</title>
-  </programme>
-  <programme start="20210515065000 -0500" stop="20210515090000 -0500" channel="ESPN XTRA">
-    <title lang="es">Force vs. Chiefs</title>
-  </programme>
-  <programme start="20210515090000 -0500" stop="20210515092500 -0500" channel="ESPN XTRA">
-    <title lang="es">Premiership Rugby</title>
-  </programme>
-  <programme start="20210515092500 -0500" stop="20210515113000 -0500" channel="ESPN XTRA">
-    <title lang="es">Tigers vs. Harlequins</title>
-  </programme>
-  <programme start="20210515113000 -0500" stop="20210515133000 -0500" channel="ESPN XTRA">
-    <title lang="es">Crusaders vs. Brumbies</title>
-  </programme>
-  <programme start="20210515133000 -0500" stop="20210515143000 -0500" channel="ESPN XTRA">
-    <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20210515143000 -0500" stop="20210515170000 -0500" channel="ESPN XTRA">
-    <title lang="es">NBA Viernes</title>
-  </programme>
-  <programme start="20210515170000 -0500" stop="20210515190000 -0500" channel="ESPN XTRA">
-    <title lang="es">Roma vs. Lazio</title>
-  </programme>
-  <programme start="20210515190000 -0500" stop="20210515213000 -0500" channel="ESPN XTRA">
-    <title lang="es">Lakers vs. Pacers</title>
-  </programme>
-  <programme start="20210515213000 -0500" stop="20210515233000 -0500" channel="ESPN XTRA">
-    <title lang="es">Juventus vs. Inter</title>
-  </programme>
-  <programme start="20210515233000 -0500" stop="20210516013000 -0500" channel="ESPN XTRA">
-    <title lang="es">Genoa vs. Atalanta</title>
   </programme>
   <programme start="20210516013000 -0500" stop="20210516023000 -0500" channel="ESPN XTRA">
     <title lang="es">ATP Masters 1000</title>
@@ -1118,126 +332,6 @@
   <programme start="20210516210000 -0500" stop="20210517000000 -0500" channel="ESPN XTRA">
     <title lang="es">MotoGP</title>
   </programme>
-  <programme start="20210517000000 -0500" stop="20210517020000 -0500" channel="ESPN XTRA">
-    <title lang="es">Basketball Africa League</title>
-  </programme>
-  <programme start="20210517020000 -0500" stop="20210517040000 -0500" channel="ESPN XTRA">
-    <title lang="es">Internazionali BNL d'Italia</title>
-  </programme>
-  <programme start="20210517040000 -0500" stop="20210517050000 -0500" channel="ESPN XTRA">
-    <title lang="es">ATP Masters 1000</title>
-  </programme>
-  <programme start="20210517050000 -0500" stop="20210517080000 -0500" channel="ESPN XTRA">
-    <title lang="es">ESPN's Sunday Night Baseball</title>
-  </programme>
-  <programme start="20210517080000 -0500" stop="20210517100000 -0500" channel="ESPN XTRA">
-    <title lang="es">Chelsea vs. Barcelona</title>
-  </programme>
-  <programme start="20210517100000 -0500" stop="20210517103000 -0500" channel="ESPN XTRA">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20210517103000 -0500" stop="20210517130000 -0500" channel="ESPN XTRA">
-    <title lang="es">Jaguares XV vs. Peñarol Rugby</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517150000 -0500" channel="ESPN XTRA">
-    <title lang="es">Roma vs. Lazio</title>
-  </programme>
-  <programme start="20210517150000 -0500" stop="20210517170000 -0500" channel="ESPN XTRA">
-    <title lang="es">Paris Saint-Germain vs. Stade de Reims</title>
-  </programme>
-  <programme start="20210517170000 -0500" stop="20210517190000 -0500" channel="ESPN XTRA">
-    <title lang="es">Juventus vs. Inter</title>
-  </programme>
-  <programme start="20210517190000 -0500" stop="20210517213000 -0500" channel="ESPN XTRA">
-    <title lang="es">Chelsea vs. Leicester City</title>
-  </programme>
-  <programme start="20210517213000 -0500" stop="20210517233000 -0500" channel="ESPN XTRA">
-    <title lang="es">Gonet Geneva Open</title>
-  </programme>
-  <programme start="20210517233000 -0500" stop="20210518000000 -0500" channel="ESPN XTRA">
-    <title lang="es">ESPN X</title>
-  </programme>
-  <programme start="20210518000000 -0500" stop="20210518003000 -0500" channel="ESPN XTRA">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20210518003000 -0500" stop="20210518010000 -0500" channel="ESPN XTRA">
-    <title lang="es">A.T.P. Tour Uncovered</title>
-  </programme>
-  <programme start="20210518010000 -0500" stop="20210518030000 -0500" channel="ESPN XTRA">
-    <title lang="es">Revolution vs. Columbus Crew</title>
-  </programme>
-  <programme start="20210518030000 -0500" stop="20210518050000 -0500" channel="ESPN XTRA">
-    <title lang="es">Vitesse vs. Ajax</title>
-  </programme>
-  <programme start="20210518050000 -0500" stop="20210518070000 -0500" channel="ESPN XTRA">
-    <title lang="es">Milan vs. Cagliari</title>
-  </programme>
-  <programme start="20210518070000 -0500" stop="20210518090000 -0500" channel="ESPN XTRA">
-    <title lang="es">Monaco vs. Stade Rennais FC</title>
-  </programme>
-  <programme start="20210518090000 -0500" stop="20210518110000 -0500" channel="ESPN XTRA">
-    <title lang="es">Tigers vs. Harlequins</title>
-  </programme>
-  <programme start="20210518110000 -0500" stop="20210518143000 -0500" channel="ESPN XTRA">
-    <title lang="es">Gonet Geneva Open</title>
-  </programme>
-  <programme start="20210518143000 -0500" stop="20210518163000 -0500" channel="ESPN XTRA">
-    <title lang="es">Rebels vs. Blues</title>
-  </programme>
-  <programme start="20210518163000 -0500" stop="20210518183000 -0500" channel="ESPN XTRA">
-    <title lang="es">Force vs. Chiefs</title>
-  </programme>
-  <programme start="20210518183000 -0500" stop="20210518190000 -0500" channel="ESPN XTRA">
-    <title lang="es">ESPN W</title>
-  </programme>
-  <programme start="20210518190000 -0500" stop="20210518220000 -0500" channel="ESPN XTRA">
-    <title lang="es">Yankees vs. Rangers</title>
-  </programme>
-  <programme start="20210518220000 -0500" stop="20210519000000 -0500" channel="ESPN XTRA">
-    <title lang="es">Internazionali BNL d'Italia</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515040000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Vélez Sársfield vs. LDU Quito</title>
-  </programme>
-  <programme start="20210515040000 -0500" stop="20210515050000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Expediente Futbol</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515080000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210515080000 -0500" stop="20210515100000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">WWE SmackDown</title>
-  </programme>
-  <programme start="20210515100000 -0500" stop="20210515110000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515140000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515150000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Expediente Futbol</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515170000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Fox Gol</title>
-  </programme>
-  <programme start="20210515170000 -0500" stop="20210515173000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20210515173000 -0500" stop="20210515180000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210515180000 -0500" stop="20210515190000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210515190000 -0500" stop="20210515210000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210515210000 -0500" stop="20210515230000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210515230000 -0500" stop="20210516010000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
   <programme start="20210516010000 -0500" stop="20210516013000 -0500" channel="FOXSPORTS PREMIUM">
     <title lang="es">UEFA Champions League Magazine</title>
   </programme>
@@ -1246,6 +340,9 @@
   </programme>
   <programme start="20210516020000 -0500" stop="20210516040000 -0500" channel="FOXSPORTS PREMIUM">
     <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210516040000 -0500" stop="20210516050000 -0500" channel="FOXSPORTS PREMIUM">
+    <title lang="es">Expediente Futbol</title>
   </programme>
   <programme start="20210516050000 -0500" stop="20210516060000 -0500" channel="FOXSPORTS PREMIUM">
     <title lang="es">Deporte: Será Anunciado</title>
@@ -1286,140 +383,32 @@
   <programme start="20210516223000 -0500" stop="20210516230000 -0500" channel="FOXSPORTS PREMIUM">
     <title lang="es">UEFA Champions League Magazine</title>
   </programme>
-  <programme start="20210517010000 -0500" stop="20210517020000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210517020000 -0500" stop="20210517040000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20210517040000 -0500" stop="20210517050000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Expediente Futbol</title>
-  </programme>
-  <programme start="20210517050000 -0500" stop="20210517080000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210517080000 -0500" stop="20210517100000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Fox Gol</title>
-  </programme>
-  <programme start="20210517100000 -0500" stop="20210517110000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Expediente Futbol</title>
-  </programme>
-  <programme start="20210517110000 -0500" stop="20210517130000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517150000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210517150000 -0500" stop="20210517160000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210517160000 -0500" stop="20210517170000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Expediente Futbol</title>
-  </programme>
-  <programme start="20210517170000 -0500" stop="20210517190000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">La Era Palermo</title>
-  </programme>
-  <programme start="20210517190000 -0500" stop="20210517193000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20210517193000 -0500" stop="20210517200000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210517200000 -0500" stop="20210517220000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210517220000 -0500" stop="20210517230000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Final de Película</title>
-  </programme>
-  <programme start="20210517230000 -0500" stop="20210518000000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Semi-Final de pelicula</title>
-  </programme>
-  <programme start="20210518000000 -0500" stop="20210518030000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">WWE Raw</title>
-  </programme>
-  <programme start="20210518030000 -0500" stop="20210518050000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210518080000 -0500" stop="20210518100000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518171500 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210518171500 -0500" stop="20210518190000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210518190000 -0500" stop="20210518210000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210518210000 -0500" stop="20210518230000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210519010000 -0500" channel="FOXSPORTS PREMIUM">
-    <title lang="es">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20210515010000 -0500" stop="20210515030000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Rayadas vs. Tigres</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515040000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20210515040000 -0500" stop="20210515050000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515060000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20210515060000 -0500" stop="20210515070000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20210515070000 -0500" stop="20210515073000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Fox Fit</title>
-  </programme>
-  <programme start="20210515073000 -0500" stop="20210515080000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Fox Fit</title>
-  </programme>
-  <programme start="20210515080000 -0500" stop="20210515090000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20210515090000 -0500" stop="20210515100000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20210515100000 -0500" stop="20210515103000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">UFC Ultimate Knockouts</title>
-  </programme>
-  <programme start="20210515103000 -0500" stop="20210515123000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">WWE Smackdown</title>
-  </programme>
-  <programme start="20210515123000 -0500" stop="20210515130000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Inside UFC</title>
-  </programme>
-  <programme start="20210515130000 -0500" stop="20210515140000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">UFC Countdown</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515143000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Rumbo a Estambul</title>
-  </programme>
-  <programme start="20210515143000 -0500" stop="20210515150000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Fox fight club</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515180000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Ángeles Angels vs. Boston Red S</title>
-  </programme>
-  <programme start="20210515180000 -0500" stop="20210515210000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Yankees vs. Orioles En Vivo</title>
-  </programme>
-  <programme start="20210515210000 -0500" stop="20210515220000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">WWE Saturday Night</title>
-  </programme>
-  <programme start="20210515220000 -0500" stop="20210515230000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20210515230000 -0500" stop="20210516000000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">La última palabra</title>
-  </programme>
   <programme start="20210516010000 -0500" stop="20210516030000 -0500" channel="FOXSPORTS 1">
     <title lang="es">UFC Preliminares</title>
+  </programme>
+  <programme start="20210516030000 -0500" stop="20210516040000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210516040000 -0500" stop="20210516050000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20210516050000 -0500" stop="20210516060000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210516060000 -0500" stop="20210516070000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20210516070000 -0500" stop="20210516073000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20210516073000 -0500" stop="20210516080000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20210516080000 -0500" stop="20210516090000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20210516090000 -0500" stop="20210516100000 -0500" channel="FOXSPORTS 1">
+    <title lang="es">La última palabra</title>
   </programme>
   <programme start="20210516100000 -0500" stop="20210516105000 -0500" channel="FOXSPORTS 1">
     <title lang="es">WWE Saturday Night</title>
@@ -1444,99 +433,6 @@
   </programme>
   <programme start="20210516230000 -0500" stop="20210517000000 -0500" channel="FOXSPORTS 1">
     <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20210517010000 -0500" stop="20210517030000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Monterrey vs. Santos</title>
-  </programme>
-  <programme start="20210517090000 -0500" stop="20210517100000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Agenda Fox Sports</title>
-  </programme>
-  <programme start="20210517100000 -0500" stop="20210517110000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20210517110000 -0500" stop="20210517120000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Agenda Fox Sports</title>
-  </programme>
-  <programme start="20210517120000 -0500" stop="20210517140000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Monterrey vs. Santos</title>
-  </programme>
-  <programme start="20210517140000 -0500" stop="20210517150000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">WWE Raw Highlight</title>
-  </programme>
-  <programme start="20210517150000 -0500" stop="20210517160000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Lo mejor de Fox Sports</title>
-  </programme>
-  <programme start="20210517160000 -0500" stop="20210517170000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Fox Sports Radio</title>
-  </programme>
-  <programme start="20210517170000 -0500" stop="20210517173000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Rumbo a Estambul</title>
-  </programme>
-  <programme start="20210517173000 -0500" stop="20210517180000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Fox fight club</title>
-  </programme>
-  <programme start="20210517180000 -0500" stop="20210517190000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">WWE Saturday Night</title>
-  </programme>
-  <programme start="20210517190000 -0500" stop="20210517220000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">WWE Raw</title>
-  </programme>
-  <programme start="20210518010000 -0500" stop="20210518030000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Guadalajara vs. Atlas</title>
-  </programme>
-  <programme start="20210518120000 -0500" stop="20210518140000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Guadalajara vs. Atlas</title>
-  </programme>
-  <programme start="20210518140000 -0500" stop="20210518150000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">WWE NXT</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518180000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">UFC Unleashed</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518200000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Juventus vs. Real Madrid</title>
-  </programme>
-  <programme start="20210518200000 -0500" stop="20210518220000 -0500" channel="FOXSPORTS 1">
-    <title lang="es">Real Madrid vs. Liverpool</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515050000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Independiente del Valle vs. Palmeiras</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515070000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20210515070000 -0500" stop="20210515090000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Junior vs. River Plate</title>
-  </programme>
-  <programme start="20210515090000 -0500" stop="20210515110000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Fluminense vs. Santa Fe</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515130000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Vélez Sársfield vs. LDU Quito</title>
-  </programme>
-  <programme start="20210515130000 -0500" stop="20210515150000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Guabirá vs. Bahia</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515170000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">La Era Pekerman</title>
-  </programme>
-  <programme start="20210515170000 -0500" stop="20210515180000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Corinthians Campeón Copa Libertadores 2012</title>
-  </programme>
-  <programme start="20210515180000 -0500" stop="20210515190000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">At. Mineiro campeón Copa Libertadores 2013</title>
-  </programme>
-  <programme start="20210515190000 -0500" stop="20210515193000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20210515193000 -0500" stop="20210515220000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Fútbol clásico de la UEFA Champions League</title>
-  </programme>
-  <programme start="20210515220000 -0500" stop="20210516000000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Universitario vs. Defensa y Justicia</title>
-  </programme>
-  <programme start="20210516000000 -0500" stop="20210516010000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Expediente Futbol</title>
   </programme>
   <programme start="20210516010000 -0500" stop="20210516020000 -0500" channel="FOXSPORTS 2">
     <title lang="es">WWE Raw Highlights</title>
@@ -1582,159 +478,6 @@
   </programme>
   <programme start="20210516210000 -0500" stop="20210517000000 -0500" channel="FOXSPORTS 2">
     <title lang="es">UFC</title>
-  </programme>
-  <programme start="20210517010000 -0500" stop="20210517020000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">WWE Main event</title>
-  </programme>
-  <programme start="20210517020000 -0500" stop="20210517040000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Racing vs. Sporting Cristal</title>
-  </programme>
-  <programme start="20210517050000 -0500" stop="20210517070000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Vélez Sársfield vs. LDU Quito</title>
-  </programme>
-  <programme start="20210517070000 -0500" stop="20210517080000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">WWE Raw Highlights</title>
-  </programme>
-  <programme start="20210517080000 -0500" stop="20210517100000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Deportivo La Guaira vs. Cerro Porteño</title>
-  </programme>
-  <programme start="20210517100000 -0500" stop="20210517120000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Independiente del Valle vs. Palmeiras</title>
-  </programme>
-  <programme start="20210517120000 -0500" stop="20210517130000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Expediente Futbol</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517160000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UFC Repetición</title>
-  </programme>
-  <programme start="20210517160000 -0500" stop="20210517180000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">La Era Palermo</title>
-  </programme>
-  <programme start="20210517180000 -0500" stop="20210517190000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">WWE Raw Highlights</title>
-  </programme>
-  <programme start="20210517190000 -0500" stop="20210517193000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20210517193000 -0500" stop="20210517200000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Momentos Eternos</title>
-  </programme>
-  <programme start="20210517200000 -0500" stop="20210517220000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Fox Gol</title>
-  </programme>
-  <programme start="20210517220000 -0500" stop="20210517223000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Fox Sports 2 (Cono Sur)</title>
-  </programme>
-  <programme start="20210517223000 -0500" stop="20210517230000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Fox Sports 2 (Cono Sur)</title>
-  </programme>
-  <programme start="20210517230000 -0500" stop="20210518020000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UFC Repetición</title>
-  </programme>
-  <programme start="20210518020000 -0500" stop="20210518030000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Expediente Futbol</title>
-  </programme>
-  <programme start="20210518030000 -0500" stop="20210518050000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">América de Cali vs. Atlético Mineiro</title>
-  </programme>
-  <programme start="20210518050000 -0500" stop="20210518070000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">The Strongest vs. Barcelona SC</title>
-  </programme>
-  <programme start="20210518070000 -0500" stop="20210518080000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20210518080000 -0500" stop="20210518090000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Wwe nxt</title>
-  </programme>
-  <programme start="20210518090000 -0500" stop="20210518110000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Universitario vs. Defensa y Justicia</title>
-  </programme>
-  <programme start="20210518110000 -0500" stop="20210518130000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Nacional vs. Atlético Nacional</title>
-  </programme>
-  <programme start="20210518130000 -0500" stop="20210518160000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UFC</title>
-  </programme>
-  <programme start="20210518160000 -0500" stop="20210518170000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">WWE Vintage</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518171500 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Previa - CONMEBOL Libertadores</title>
-  </programme>
-  <programme start="20210518171500 -0500" stop="20210518191500 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Nacional vs. Universidad Catolica</title>
-  </programme>
-  <programme start="20210518191500 -0500" stop="20210518193000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Previa - CONMEBOL Libertadores</title>
-  </programme>
-  <programme start="20210518193000 -0500" stop="20210518213000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Universitario vs. Independiente del Valle</title>
-  </programme>
-  <programme start="20210518213000 -0500" stop="20210518220000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20210518220000 -0500" stop="20210518223000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Fox Sports 2 (Cono Sur)</title>
-  </programme>
-  <programme start="20210518223000 -0500" stop="20210518230000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">Fox Sports 2 (Cono Sur)</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210519020000 -0500" channel="FOXSPORTS 2">
-    <title lang="es">UFC</title>
-  </programme>
-  <programme start="20210515010000 -0500" stop="20210515020000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - WRC</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515030000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Motul FIM Superbikes World Championship</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515050000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 1</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515060000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Circuito</title>
-  </programme>
-  <programme start="20210515060000 -0500" stop="20210515063000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Rally on board</title>
-  </programme>
-  <programme start="20210515063000 -0500" stop="20210515070000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Más motor</title>
-  </programme>
-  <programme start="20210515070000 -0500" stop="20210515080000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Highlights - Extreme E</title>
-  </programme>
-  <programme start="20210515080000 -0500" stop="20210515090000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Motul FIM Superbikes World Championship</title>
-  </programme>
-  <programme start="20210515090000 -0500" stop="20210515100000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Highlights - WEC</title>
-  </programme>
-  <programme start="20210515100000 -0500" stop="20210515113000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">WRC</title>
-  </programme>
-  <programme start="20210515113000 -0500" stop="20210515123000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Highlights - Extreme E</title>
-  </programme>
-  <programme start="20210515123000 -0500" stop="20210515150000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">NASCAR XFINITY Series</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515153000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210515153000 -0500" stop="20210515160000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Rally on board</title>
-  </programme>
-  <programme start="20210515160000 -0500" stop="20210515180000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 1</title>
-  </programme>
-  <programme start="20210515180000 -0500" stop="20210515213000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">NASCAR Cup Series</title>
-  </programme>
-  <programme start="20210515213000 -0500" stop="20210515220000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210515220000 -0500" stop="20210516010000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">WWE Raw</title>
   </programme>
   <programme start="20210516010000 -0500" stop="20210516030000 -0500" channel="FOXSPORTS 3">
     <title lang="es">WWE SmackDown</title>
@@ -1784,533 +527,104 @@
   <programme start="20210516233000 -0500" stop="20210517000000 -0500" channel="FOXSPORTS 3">
     <title lang="es">Magazine - Extreme E</title>
   </programme>
-  <programme start="20210517000000 -0500" stop="20210517030000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">WWE Raw</title>
-  </programme>
-  <programme start="20210517050000 -0500" stop="20210517080000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">WWE Raw</title>
-  </programme>
-  <programme start="20210517080000 -0500" stop="20210517100000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">WWE SmackDown</title>
-  </programme>
-  <programme start="20210517100000 -0500" stop="20210517120000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 1</title>
-  </programme>
-  <programme start="20210517120000 -0500" stop="20210517130000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Highlights - Extreme E</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517140000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Motul FIM Superbikes World Championship</title>
-  </programme>
-  <programme start="20210517140000 -0500" stop="20210517150000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Highlights - WEC</title>
-  </programme>
-  <programme start="20210517150000 -0500" stop="20210517153000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210517153000 -0500" stop="20210517160000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210517160000 -0500" stop="20210517180000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 1</title>
-  </programme>
-  <programme start="20210517180000 -0500" stop="20210517190000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Motul FIM Superbikes World Championship</title>
-  </programme>
-  <programme start="20210517190000 -0500" stop="20210517200000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 2</title>
-  </programme>
-  <programme start="20210517200000 -0500" stop="20210517210000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 2</title>
-  </programme>
-  <programme start="20210517210000 -0500" stop="20210517220000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 2</title>
-  </programme>
-  <programme start="20210517220000 -0500" stop="20210517230000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Highlights - WEC</title>
-  </programme>
-  <programme start="20210517230000 -0500" stop="20210517233000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210517233000 -0500" stop="20210518000000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210518050000 -0500" stop="20210518090000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">NASCAR Cup Series</title>
-  </programme>
-  <programme start="20210518090000 -0500" stop="20210518093000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210518093000 -0500" stop="20210518100000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210518100000 -0500" stop="20210518120000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Fórmula 1</title>
-  </programme>
-  <programme start="20210518120000 -0500" stop="20210518160000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">NASCAR Cup Series</title>
-  </programme>
-  <programme start="20210518160000 -0500" stop="20210518163000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210518163000 -0500" stop="20210518170000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Magazine - Extreme E</title>
-  </programme>
-  <programme start="20210518170000 -0500" stop="20210518180000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Highlights - Extreme E</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518190000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Motul FIM Superbikes World Championship</title>
-  </programme>
-  <programme start="20210518190000 -0500" stop="20210518230000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">NASCAR Cup Series</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210518233000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Rally on board</title>
-  </programme>
-  <programme start="20210518233000 -0500" stop="20210519010000 -0500" channel="FOXSPORTS 3">
-    <title lang="es">Rally Mobil</title>
-  </programme>
-  <programme start="20210515010000 -0500" stop="20210515013000 -0500" channel="GOLTV">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20210515013000 -0500" stop="20210515033000 -0500" channel="GOLTV">
-    <title lang="es">Sporting vs. Boavista</title>
-  </programme>
-  <programme start="20210515033000 -0500" stop="20210515040000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20210515040000 -0500" stop="20210515060000 -0500" channel="GOLTV">
-    <title lang="es">Montpellier vs. PSG</title>
-  </programme>
-  <programme start="20210515060000 -0500" stop="20210515063000 -0500" channel="GOLTV">
-    <title lang="es">GOGOGOAL</title>
-  </programme>
-  <programme start="20210515063000 -0500" stop="20210515070000 -0500" channel="GOLTV">
-    <title lang="es">Fechas Pasadas</title>
-  </programme>
-  <programme start="20210515070000 -0500" stop="20210515090000 -0500" channel="GOLTV">
-    <title lang="es">Rumilly Vallieres vs. Mónaco</title>
-  </programme>
-  <programme start="20210515090000 -0500" stop="20210515093000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol - Perú</title>
-  </programme>
-  <programme start="20210515093000 -0500" stop="20210515100000 -0500" channel="GOLTV">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20210515100000 -0500" stop="20210515110000 -0500" channel="GOLTV">
-    <title lang="es">El Show del Fútbol</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515120000 -0500" channel="GOLTV">
-    <title lang="es">GolNoticias</title>
-  </programme>
-  <programme start="20210515120000 -0500" stop="20210515140000 -0500" channel="GOLTV">
-    <title lang="es">Benfica vs. Sporting En Vivo</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515143000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20210515143000 -0500" stop="20210515163000 -0500" channel="GOLTV">
-    <title lang="es">Rio Ave vs. Porto En Vivo</title>
-  </programme>
-  <programme start="20210515163000 -0500" stop="20210515183000 -0500" channel="GOLTV">
-    <title lang="es">Universidad Catolica vs. Delfin En Vivo</title>
-  </programme>
-  <programme start="20210515183000 -0500" stop="20210515190000 -0500" channel="GOLTV">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20210515190000 -0500" stop="20210515210000 -0500" channel="GOLTV">
-    <title lang="es">Emelec Vs. Guayaquil City En Vivo</title>
-  </programme>
-  <programme start="20210515210000 -0500" stop="20210515230000 -0500" channel="GOLTV">
-    <title lang="es">Deportivo Táchira vs. Estudiantes de Mérida Repetición</title>
-  </programme>
-  <programme start="20210515230000 -0500" stop="20210516010000 -0500" channel="GOLTV">
-    <title lang="es">Ayacucho vs. Universitario Repetición</title>
-  </programme>
-  <programme start="20210516230000 -0500" stop="20210517010000 -0500" channel="GOLTV">
-    <title lang="es">Ayacucho vs. Universitario Repetición</title>
-  </programme>
-  <programme start="20210517010000 -0500" stop="20210517030000 -0500" channel="GOLTV">
+  <programme start="20210516010000 -0500" stop="20210516030000 -0500" channel="GOLTV">
     <title lang="es">Wanderers vs. Boston River Repetición</title>
   </programme>
-  <programme start="20210517030000 -0500" stop="20210517050000 -0500" channel="GOLTV">
+  <programme start="20210516030000 -0500" stop="20210516050000 -0500" channel="GOLTV">
     <title lang="es">Montevideo City Torque vs. Sud América Repetición</title>
   </programme>
-  <programme start="20210517050000 -0500" stop="20210517053000 -0500" channel="GOLTV">
+  <programme start="20210516050000 -0500" stop="20210516053000 -0500" channel="GOLTV">
     <title lang="es">Fechas Pasadas</title>
   </programme>
-  <programme start="20210517053000 -0500" stop="20210517060000 -0500" channel="GOLTV">
+  <programme start="20210516053000 -0500" stop="20210516060000 -0500" channel="GOLTV">
     <title lang="es">GOGOGOAL</title>
   </programme>
-  <programme start="20210517060000 -0500" stop="20210517080000 -0500" channel="GOLTV">
+  <programme start="20210516060000 -0500" stop="20210516080000 -0500" channel="GOLTV">
     <title lang="es">Rio Ave vs. Porto</title>
   </programme>
-  <programme start="20210517080000 -0500" stop="20210517083000 -0500" channel="GOLTV">
+  <programme start="20210516080000 -0500" stop="20210516083000 -0500" channel="GOLTV">
     <title lang="es">Tu Fútbol Uruguay</title>
   </programme>
-  <programme start="20210517083000 -0500" stop="20210517103000 -0500" channel="GOLTV">
+  <programme start="20210516083000 -0500" stop="20210516103000 -0500" channel="GOLTV">
     <title lang="es">Montpellier vs. PSG</title>
   </programme>
-  <programme start="20210517103000 -0500" stop="20210517110000 -0500" channel="GOLTV">
+  <programme start="20210516103000 -0500" stop="20210516110000 -0500" channel="GOLTV">
     <title lang="es">The Football Review</title>
   </programme>
-  <programme start="20210517110000 -0500" stop="20210517113000 -0500" channel="GOLTV">
+  <programme start="20210516110000 -0500" stop="20210516113000 -0500" channel="GOLTV">
     <title lang="es">Tu Fútbol - Perú</title>
   </programme>
-  <programme start="20210517113000 -0500" stop="20210517133000 -0500" channel="GOLTV">
+  <programme start="20210516113000 -0500" stop="20210516133000 -0500" channel="GOLTV">
     <title lang="es">Dinamo Moscú vs. CSKA Moscú Repetición</title>
   </programme>
-  <programme start="20210517133000 -0500" stop="20210517140000 -0500" channel="GOLTV">
+  <programme start="20210516133000 -0500" stop="20210516140000 -0500" channel="GOLTV">
     <title lang="es">Fechas Pasadas</title>
   </programme>
-  <programme start="20210517140000 -0500" stop="20210517160000 -0500" channel="GOLTV">
+  <programme start="20210516140000 -0500" stop="20210516160000 -0500" channel="GOLTV">
     <title lang="es">Marítimo vs. V. Guimaraes En Vivo</title>
   </programme>
-  <programme start="20210517160000 -0500" stop="20210517163000 -0500" channel="GOLTV">
+  <programme start="20210516160000 -0500" stop="20210516163000 -0500" channel="GOLTV">
     <title lang="es">GOGOGOAL</title>
   </programme>
-  <programme start="20210517163000 -0500" stop="20210517183000 -0500" channel="GOLTV">
+  <programme start="20210516163000 -0500" stop="20210516183000 -0500" channel="GOLTV">
     <title lang="es">Liga de Quito vs. Aucas En Vivo</title>
   </programme>
-  <programme start="20210517183000 -0500" stop="20210517190000 -0500" channel="GOLTV">
+  <programme start="20210516183000 -0500" stop="20210516190000 -0500" channel="GOLTV">
     <title lang="es">Tu Fútbol - Perú</title>
   </programme>
-  <programme start="20210517190000 -0500" stop="20210517210000 -0500" channel="GOLTV">
+  <programme start="20210516190000 -0500" stop="20210516210000 -0500" channel="GOLTV">
     <title lang="es">9 de Octubre vs. Barcelona En Vivo</title>
   </programme>
-  <programme start="20210517210000 -0500" stop="20210517230000 -0500" channel="GOLTV">
+  <programme start="20210516210000 -0500" stop="20210516230000 -0500" channel="GOLTV">
     <title lang="es">Sporting Cristal vs. Sport Huancayo Repetición</title>
   </programme>
-  <programme start="20210517230000 -0500" stop="20210518010000 -0500" channel="GOLTV">
+  <programme start="20210516230000 -0500" stop="20210517010000 -0500" channel="GOLTV">
     <title lang="es">Metropolitanos vs. Mineros Repetición</title>
   </programme>
-  <programme start="20210518010000 -0500" stop="20210518030000 -0500" channel="GOLTV">
-    <title lang="es">Rentistas vs. Fénix Repetición</title>
-  </programme>
-  <programme start="20210518030000 -0500" stop="20210518040000 -0500" channel="GOLTV">
-    <title lang="es">Fanáticos</title>
-  </programme>
-  <programme start="20210518040000 -0500" stop="20210518060000 -0500" channel="GOLTV">
-    <title lang="es">Deportivo Cuenca vs. Mushuc Runa</title>
-  </programme>
-  <programme start="20210518060000 -0500" stop="20210518063000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20210518063000 -0500" stop="20210518070000 -0500" channel="GOLTV">
-    <title lang="es">GOGOGOAL</title>
-  </programme>
-  <programme start="20210518070000 -0500" stop="20210518080000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol - Ecuador</title>
-  </programme>
-  <programme start="20210518080000 -0500" stop="20210518083000 -0500" channel="GOLTV">
-    <title lang="es">Fechas Pasadas</title>
-  </programme>
-  <programme start="20210518083000 -0500" stop="20210518103000 -0500" channel="GOLTV">
-    <title lang="es">Universidad Catolica vs. Delfin</title>
-  </programme>
-  <programme start="20210518103000 -0500" stop="20210518110000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol - Perú</title>
-  </programme>
-  <programme start="20210518110000 -0500" stop="20210518130000 -0500" channel="GOLTV">
-    <title lang="es">Alianza Universidad vs. UTC En Vivo</title>
-  </programme>
-  <programme start="20210518130000 -0500" stop="20210518150000 -0500" channel="GOLTV">
-    <title lang="es">Sport Boys vs. Alianza Lima</title>
-  </programme>
-  <programme start="20210518150000 -0500" stop="20210518153000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20210518153000 -0500" stop="20210518160000 -0500" channel="GOLTV">
-    <title lang="es">GOGOGOAL</title>
-  </programme>
-  <programme start="20210518160000 -0500" stop="20210518180000 -0500" channel="GOLTV">
-    <title lang="es">Pasión por el Fútbol</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518183000 -0500" channel="GOLTV">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20210518183000 -0500" stop="20210518190000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20210518190000 -0500" stop="20210518210000 -0500" channel="GOLTV">
-    <title lang="es">Técnico Universitario vs. Orense En Vivo</title>
-  </programme>
-  <programme start="20210518210000 -0500" stop="20210518220000 -0500" channel="GOLTV">
-    <title lang="es">GolTV Noticias</title>
-  </programme>
-  <programme start="20210518220000 -0500" stop="20210519000000 -0500" channel="GOLTV">
-    <title lang="es">Liga de Quito vs. Aucas</title>
-  </programme>
-  <programme start="20210519010000 -0500" stop="20210519020000 -0500" channel="GOLTV">
-    <title lang="es">Portugol</title>
-  </programme>
-  <programme start="20210519020000 -0500" stop="20210519023000 -0500" channel="GOLTV">
-    <title lang="es">Fechas Pasadas</title>
-  </programme>
-  <programme start="20210519023000 -0500" stop="20210519030000 -0500" channel="GOLTV">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20210519030000 -0500" stop="20210519050000 -0500" channel="GOLTV">
-    <title lang="es">Técnico Universitario vs. Orense</title>
-  </programme>
-  <programme start="20210519050000 -0500" stop="20210519060000 -0500" channel="GOLTV">
-    <title lang="es">Fanáticos</title>
-  </programme>
-  <programme start="20210519060000 -0500" stop="20210519063000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol - Perú</title>
-  </programme>
-  <programme start="20210519063000 -0500" stop="20210519083000 -0500" channel="GOLTV">
-    <title lang="es">Dinamo Moscú vs. CSKA Moscú</title>
-  </programme>
-  <programme start="20210519083000 -0500" stop="20210519090000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20210519090000 -0500" stop="20210519093000 -0500" channel="GOLTV">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20210519093000 -0500" stop="20210519113000 -0500" channel="GOLTV">
-    <title lang="es">Montevideo City Torque vs. Sud América</title>
-  </programme>
-  <programme start="20210519113000 -0500" stop="20210519120000 -0500" channel="GOLTV">
-    <title lang="es">GOGOGOAL</title>
-  </programme>
-  <programme start="20210519120000 -0500" stop="20210519130000 -0500" channel="GOLTV">
-    <title lang="es">El Show del Fútbol</title>
-  </programme>
-  <programme start="20210519130000 -0500" stop="20210519140000 -0500" channel="GOLTV">
-    <title lang="es">GolNoticias</title>
-  </programme>
-  <programme start="20210519140000 -0500" stop="20210519143000 -0500" channel="GOLTV">
-    <title lang="es">Fechas Pasadas</title>
-  </programme>
-  <programme start="20210519143000 -0500" stop="20210519150000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol - Perú</title>
-  </programme>
-  <programme start="20210519150000 -0500" stop="20210519170000 -0500" channel="GOLTV">
-    <title lang="es">Universidad Catolica vs. Delfin</title>
-  </programme>
-  <programme start="20210519170000 -0500" stop="20210519180000 -0500" channel="GOLTV">
-    <title lang="es">Fanáticos</title>
-  </programme>
-  <programme start="20210519180000 -0500" stop="20210519190000 -0500" channel="GOLTV">
-    <title lang="es">Portugol</title>
-  </programme>
-  <programme start="20210519190000 -0500" stop="20210519200000 -0500" channel="GOLTV">
-    <title lang="es">GolTV Noticias</title>
-  </programme>
-  <programme start="20210519200000 -0500" stop="20210519210000 -0500" channel="GOLTV">
-    <title lang="es">Tu Fútbol - Ecuador</title>
-  </programme>
-  <programme start="20210519210000 -0500" stop="20210519230000 -0500" channel="GOLTV">
-    <title lang="es">9 de Octubre vs. Barcelona</title>
-  </programme>
-  <programme start="20210519230000 -0500" stop="20210520000000 -0500" channel="GOLTV">
-    <title lang="es">Fanáticos</title>
-  </programme>
-  <programme start="20210515003000 -0500" stop="20210515023000 -0500" channel="TNT SPORT">
-    <title lang="es">Huracán vs. Independiente</title>
-  </programme>
-  <programme start="20210515023000 -0500" stop="20210515033000 -0500" channel="TNT SPORT">
-    <title lang="es">Historias de El Gráfico</title>
-  </programme>
-  <programme start="20210515033000 -0500" stop="20210515040000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210515040000 -0500" stop="20210515055500 -0500" channel="TNT SPORT">
-    <title lang="es">Gimnasia (LP) vs. Vélez</title>
-  </programme>
-  <programme start="20210515055500 -0500" stop="20210515075000 -0500" channel="TNT SPORT">
-    <title lang="es">Lanús vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210515075000 -0500" stop="20210515085000 -0500" channel="TNT SPORT">
-    <title lang="es">Interior futbolero</title>
-  </programme>
-  <programme start="20210515085000 -0500" stop="20210515110000 -0500" channel="TNT SPORT">
-    <title lang="es">Independiente vs. Platense</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515113000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210515113000 -0500" stop="20210515120000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210515120000 -0500" stop="20210515140000 -0500" channel="TNT SPORT">
-    <title lang="es">Superclásicos de memoria</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515160000 -0500" channel="TNT SPORT">
-    <title lang="es">Superclásicos de memoria</title>
-  </programme>
-  <programme start="20210515160000 -0500" stop="20210515180000 -0500" channel="TNT SPORT">
-    <title lang="es">Superclásicos de memoria</title>
-  </programme>
-  <programme start="20210515180000 -0500" stop="20210515190000 -0500" channel="TNT SPORT">
-    <title lang="es">Fútbol: Previa</title>
-  </programme>
-  <programme start="20210515190000 -0500" stop="20210515210000 -0500" channel="TNT SPORT">
-    <title lang="es">Colón vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210515210000 -0500" stop="20210515230000 -0500" channel="TNT SPORT">
+  <programme start="20210516013000 -0500" stop="20210516033000 -0500" channel="TNT SPORT">
     <title lang="es">Estudiantes (LP) vs. Independiente</title>
   </programme>
-  <programme start="20210515230000 -0500" stop="20210515233000 -0500" channel="TNT SPORT">
-    <title lang="es">Artistas del K.O</title>
-  </programme>
-  <programme start="20210515233000 -0500" stop="20210516013000 -0500" channel="TNT SPORT">
-    <title lang="es">Colón vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210516233000 -0500" stop="20210517013000 -0500" channel="TNT SPORT">
-    <title lang="es">Colón vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210517013000 -0500" stop="20210517033000 -0500" channel="TNT SPORT">
-    <title lang="es">Estudiantes (LP) vs. Independiente</title>
-  </programme>
-  <programme start="20210517033000 -0500" stop="20210517040000 -0500" channel="TNT SPORT">
+  <programme start="20210516033000 -0500" stop="20210516040000 -0500" channel="TNT SPORT">
     <title lang="es">Todo sobre Diego</title>
   </programme>
-  <programme start="20210517040000 -0500" stop="20210517055500 -0500" channel="TNT SPORT">
+  <programme start="20210516040000 -0500" stop="20210516055500 -0500" channel="TNT SPORT">
     <title lang="es">Colón vs. Talleres (C)</title>
   </programme>
-  <programme start="20210517055500 -0500" stop="20210517065000 -0500" channel="TNT SPORT">
+  <programme start="20210516055500 -0500" stop="20210516065000 -0500" channel="TNT SPORT">
     <title lang="es">Pádel</title>
   </programme>
-  <programme start="20210517065000 -0500" stop="20210517090000 -0500" channel="TNT SPORT">
+  <programme start="20210516065000 -0500" stop="20210516090000 -0500" channel="TNT SPORT">
     <title lang="es">El Porvenir vs. Racing</title>
   </programme>
-  <programme start="20210517090000 -0500" stop="20210517100000 -0500" channel="TNT SPORT">
+  <programme start="20210516090000 -0500" stop="20210516100000 -0500" channel="TNT SPORT">
     <title lang="es">Fútbol: Previa</title>
   </programme>
-  <programme start="20210517100000 -0500" stop="20210517120000 -0500" channel="TNT SPORT">
+  <programme start="20210516100000 -0500" stop="20210516120000 -0500" channel="TNT SPORT">
     <title lang="es">Velez vs. Racing</title>
   </programme>
-  <programme start="20210517120000 -0500" stop="20210517123000 -0500" channel="TNT SPORT">
+  <programme start="20210516120000 -0500" stop="20210516123000 -0500" channel="TNT SPORT">
     <title lang="es">Fútbol: Post</title>
   </programme>
-  <programme start="20210517123000 -0500" stop="20210517140000 -0500" channel="TNT SPORT">
+  <programme start="20210516123000 -0500" stop="20210516140000 -0500" channel="TNT SPORT">
     <title lang="es">Halcones y palomas</title>
   </programme>
-  <programme start="20210517140000 -0500" stop="20210517151000 -0500" channel="TNT SPORT">
+  <programme start="20210516140000 -0500" stop="20210516151000 -0500" channel="TNT SPORT">
     <title lang="es">Fútbol: Previa</title>
   </programme>
-  <programme start="20210517151000 -0500" stop="20210517173000 -0500" channel="TNT SPORT">
+  <programme start="20210516151000 -0500" stop="20210516173000 -0500" channel="TNT SPORT">
     <title lang="es">Boca vs. River</title>
   </programme>
-  <programme start="20210517173000 -0500" stop="20210517190000 -0500" channel="TNT SPORT">
+  <programme start="20210516173000 -0500" stop="20210516190000 -0500" channel="TNT SPORT">
     <title lang="es">Fútbol: Post</title>
   </programme>
-  <programme start="20210517190000 -0500" stop="20210517210000 -0500" channel="TNT SPORT">
+  <programme start="20210516190000 -0500" stop="20210516210000 -0500" channel="TNT SPORT">
     <title lang="es">Boca vs. River</title>
   </programme>
-  <programme start="20210517210000 -0500" stop="20210517230000 -0500" channel="TNT SPORT">
+  <programme start="20210516210000 -0500" stop="20210516230000 -0500" channel="TNT SPORT">
     <title lang="es">Velez vs. Racing</title>
   </programme>
-  <programme start="20210517230000 -0500" stop="20210518010000 -0500" channel="TNT SPORT">
+  <programme start="20210516230000 -0500" stop="20210517010000 -0500" channel="TNT SPORT">
     <title lang="es">Colón vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210519010000 -0500" channel="TNT SPORT">
-    <title lang="es">Colón vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210519010000 -0500" stop="20210519030000 -0500" channel="TNT SPORT">
-    <title lang="es">Estudiantes (LP) vs. Independiente</title>
-  </programme>
-  <programme start="20210519030000 -0500" stop="20210519033000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210519040000 -0500" stop="20210519050000 -0500" channel="TNT SPORT">
-    <title lang="es">Recuerdos de Selección</title>
-  </programme>
-  <programme start="20210519050000 -0500" stop="20210519070000 -0500" channel="TNT SPORT">
-    <title lang="es">Velez vs. Racing</title>
-  </programme>
-  <programme start="20210519070000 -0500" stop="20210519090000 -0500" channel="TNT SPORT">
-    <title lang="es">Estudiantes (LP) vs. Independiente</title>
-  </programme>
-  <programme start="20210519090000 -0500" stop="20210519093000 -0500" channel="TNT SPORT">
-    <title lang="es">Boca</title>
-  </programme>
-  <programme start="20210519093000 -0500" stop="20210519100000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210519100000 -0500" stop="20210519120000 -0500" channel="TNT SPORT">
-    <title lang="es">Halcones y palomas</title>
-  </programme>
-  <programme start="20210519120000 -0500" stop="20210519140000 -0500" channel="TNT SPORT">
-    <title lang="es">Colón vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210519140000 -0500" stop="20210519143000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210519143000 -0500" stop="20210519150000 -0500" channel="TNT SPORT">
-    <title lang="es">Lo Mejor de la Fecha</title>
-  </programme>
-  <programme start="20210519150000 -0500" stop="20210519180000 -0500" channel="TNT SPORT">
-    <title lang="es">TNT Sports radio continental</title>
-  </programme>
-  <programme start="20210519180000 -0500" stop="20210519200000 -0500" channel="TNT SPORT">
-    <title lang="es">Boca vs. River</title>
-  </programme>
-  <programme start="20210519200000 -0500" stop="20210519203000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210519203000 -0500" stop="20210519210000 -0500" channel="TNT SPORT">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210519210000 -0500" stop="20210519220000 -0500" channel="TNT SPORT">
-    <title lang="es">TNT VAR</title>
-  </programme>
-  <programme start="20210519220000 -0500" stop="20210519223000 -0500" channel="TNT SPORT">
-    <title lang="es">Boca</title>
-  </programme>
-  <programme start="20210519223000 -0500" stop="20210520003000 -0500" channel="TNT SPORT">
-    <title lang="es">Colón vs. Talleres (C)</title>
-  </programme>
-  <programme start="20210515010000 -0500" stop="20210515030000 -0500" channel="WIN SPORT">
-    <title lang="es">Deportivo Pasto vs. Millonarios Repetición</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515050000 -0500" channel="WIN SPORT">
-    <title lang="es">América de Cali vs. Unión Magdalena</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515060000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210515060000 -0500" stop="20210515070000 -0500" channel="WIN SPORT">
-    <title lang="es">Lo mejor de la fecha</title>
-  </programme>
-  <programme start="20210515070000 -0500" stop="20210515080000 -0500" channel="WIN SPORT">
-    <title lang="es">Ciclismo entre grandes</title>
-  </programme>
-  <programme start="20210515080000 -0500" stop="20210515100000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210515100000 -0500" stop="20210515103000 -0500" channel="WIN SPORT">
-    <title lang="es">Arena E-sports</title>
-  </programme>
-  <programme start="20210515103000 -0500" stop="20210515110000 -0500" channel="WIN SPORT">
-    <title lang="es">National Icons</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515130000 -0500" channel="WIN SPORT">
-    <title lang="es">SüperLig</title>
-  </programme>
-  <programme start="20210515130000 -0500" stop="20210515140000 -0500" channel="WIN SPORT">
-    <title lang="es">Win + Noticias MD</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515150000 -0500" channel="WIN SPORT">
-    <title lang="es">Lo mejor de la fecha</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515193000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210515193000 -0500" stop="20210515200000 -0500" channel="WIN SPORT">
-    <title lang="es">Previa Fútbol colombiano Primera A</title>
-  </programme>
-  <programme start="20210515200000 -0500" stop="20210515220000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210515220000 -0500" stop="20210515230000 -0500" channel="WIN SPORT">
-    <title lang="es">Win+ noticias noche</title>
-  </programme>
-  <programme start="20210515230000 -0500" stop="20210516010000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
   </programme>
   <programme start="20210516010000 -0500" stop="20210516020000 -0500" channel="WIN SPORT">
     <title lang="es">Win+ noticias noche</title>
@@ -2327,8 +641,20 @@
   <programme start="20210516070000 -0500" stop="20210516080000 -0500" channel="WIN SPORT">
     <title lang="es">Win+ noticias noche</title>
   </programme>
+  <programme start="20210516080000 -0500" stop="20210516100000 -0500" channel="WIN SPORT">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
   <programme start="20210516100000 -0500" stop="20210516103000 -0500" channel="WIN SPORT">
     <title lang="es">Campañas</title>
+  </programme>
+  <programme start="20210516103000 -0500" stop="20210516110000 -0500" channel="WIN SPORT">
+    <title lang="es">National Icons</title>
+  </programme>
+  <programme start="20210516110000 -0500" stop="20210516130000 -0500" channel="WIN SPORT">
+    <title lang="es">SüperLig</title>
+  </programme>
+  <programme start="20210516130000 -0500" stop="20210516140000 -0500" channel="WIN SPORT">
+    <title lang="es">Win + Noticias MD</title>
   </programme>
   <programme start="20210516140000 -0500" stop="20210516143000 -0500" channel="WIN SPORT">
     <title lang="es">Win + Noticias MD</title>
@@ -2347,165 +673,6 @@
   </programme>
   <programme start="20210516233000 -0500" stop="20210517013000 -0500" channel="WIN SPORT">
     <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210517013000 -0500" stop="20210517030000 -0500" channel="WIN SPORT">
-    <title lang="es">Lo mejor de la fecha</title>
-  </programme>
-  <programme start="20210517030000 -0500" stop="20210517050000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210517050000 -0500" stop="20210517053000 -0500" channel="WIN SPORT">
-    <title lang="es">National Icons</title>
-  </programme>
-  <programme start="20210517053000 -0500" stop="20210517063000 -0500" channel="WIN SPORT">
-    <title lang="es">Especiales Win Sports</title>
-  </programme>
-  <programme start="20210517063000 -0500" stop="20210517080000 -0500" channel="WIN SPORT">
-    <title lang="es">Lo mejor de la fecha</title>
-  </programme>
-  <programme start="20210517080000 -0500" stop="20210517110000 -0500" channel="WIN SPORT">
-    <title lang="es">Primer toque</title>
-  </programme>
-  <programme start="20210517110000 -0500" stop="20210517120000 -0500" channel="WIN SPORT">
-    <title lang="es">Detrás de la gloria</title>
-  </programme>
-  <programme start="20210517120000 -0500" stop="20210517130000 -0500" channel="WIN SPORT">
-    <title lang="es">Win + Noticias MD</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517150000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210517150000 -0500" stop="20210517160000 -0500" channel="WIN SPORT">
-    <title lang="es">Ciclismo entre grandes</title>
-  </programme>
-  <programme start="20210517160000 -0500" stop="20210517180000 -0500" channel="WIN SPORT">
-    <title lang="es">Saque largo</title>
-  </programme>
-  <programme start="20210517180000 -0500" stop="20210517220000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210517220000 -0500" stop="20210517230000 -0500" channel="WIN SPORT">
-    <title lang="es">Lo mejor de la fecha</title>
-  </programme>
-  <programme start="20210518010000 -0500" stop="20210518040000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210518040000 -0500" stop="20210518050000 -0500" channel="WIN SPORT">
-    <title lang="es">Lo mejor de la fecha</title>
-  </programme>
-  <programme start="20210518050000 -0500" stop="20210518060000 -0500" channel="WIN SPORT">
-    <title lang="es">Ciclismo entre grandes</title>
-  </programme>
-  <programme start="20210518060000 -0500" stop="20210518070000 -0500" channel="WIN SPORT">
-    <title lang="es">Score Mundial</title>
-  </programme>
-  <programme start="20210518070000 -0500" stop="20210518080000 -0500" channel="WIN SPORT">
-    <title lang="es">Lo mejor de la fecha</title>
-  </programme>
-  <programme start="20210518110000 -0500" stop="20210518120000 -0500" channel="WIN SPORT">
-    <title lang="es">Ciclismo entre grandes</title>
-  </programme>
-  <programme start="20210518130000 -0500" stop="20210518153000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210518153000 -0500" stop="20210518163000 -0500" channel="WIN SPORT">
-    <title lang="es">Camino a primera</title>
-  </programme>
-  <programme start="20210518163000 -0500" stop="20210518180000 -0500" channel="WIN SPORT">
-    <title lang="es">Saque largo</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518193000 -0500" channel="WIN SPORT">
-    <title lang="es">Conexión Deportes</title>
-  </programme>
-  <programme start="20210518200000 -0500" stop="20210518220000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210519003000 -0500" channel="WIN SPORT">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515023000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515023000 -0500" stop="20210515030000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515033000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515033000 -0500" stop="20210515040000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515040000 -0500" stop="20210515043000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515043000 -0500" stop="20210515050000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515053000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515053000 -0500" stop="20210515060000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515060000 -0500" stop="20210515063000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515063000 -0500" stop="20210515070000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515070000 -0500" stop="20210515073000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210515073000 -0500" stop="20210515080000 -0500" channel="BEIN SPORT">
-    <title lang="es">La liga show</title>
-  </programme>
-  <programme start="20210515080000 -0500" stop="20210515090000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210515090000 -0500" stop="20210515110000 -0500" channel="BEIN SPORT">
-    <title lang="es">Granada vs. Real Madrid</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515113000 -0500" channel="BEIN SPORT">
-    <title lang="es">Atlético de Madrid vs. Real Sociedad</title>
-  </programme>
-  <programme start="20210515113000 -0500" stop="20210515120000 -0500" channel="BEIN SPORT">
-    <title lang="es">LaLiga: Levante vs. Barcelona</title>
-  </programme>
-  <programme start="20210515120000 -0500" stop="20210515122500 -0500" channel="BEIN SPORT">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20210515122500 -0500" stop="20210515143000 -0500" channel="BEIN SPORT">
-    <title lang="es">Galatasaray vs. Malatyaspor</title>
-  </programme>
-  <programme start="20210515143000 -0500" stop="20210515150000 -0500" channel="BEIN SPORT">
-    <title lang="es">LaLiga: Granada vs. Real Madrid</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515153000 -0500" channel="BEIN SPORT">
-    <title lang="es">Atlético de Madrid vs. Real Sociedad</title>
-  </programme>
-  <programme start="20210515153000 -0500" stop="20210515160000 -0500" channel="BEIN SPORT">
-    <title lang="es">LaLiga: Levante vs. Barcelona</title>
-  </programme>
-  <programme start="20210515160000 -0500" stop="20210515170000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Soccer Xtra</title>
-  </programme>
-  <programme start="20210515170000 -0500" stop="20210515173000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210515173000 -0500" stop="20210515193000 -0500" channel="BEIN SPORT">
-    <title lang="es">Göztepe vs. Besiktas</title>
-  </programme>
-  <programme start="20210515193000 -0500" stop="20210515203000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Soccer Xtra</title>
-  </programme>
-  <programme start="20210515203000 -0500" stop="20210515210000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210515210000 -0500" stop="20210515230000 -0500" channel="BEIN SPORT">
-    <title lang="es">Kayserispor vs. Fenerbahce SK</title>
-  </programme>
-  <programme start="20210515230000 -0500" stop="20210516010000 -0500" channel="BEIN SPORT">
-    <title lang="es">Galatasaray vs. Malatyaspor</title>
   </programme>
   <programme start="20210516010000 -0500" stop="20210516020000 -0500" channel="BEIN SPORT">
     <title lang="es">The Soccer Xtra</title>
@@ -2582,150 +749,6 @@
   <programme start="20210516230000 -0500" stop="20210517010000 -0500" channel="BEIN SPORT">
     <title lang="es">Athletic Club Vs. Real Madrid</title>
   </programme>
-  <programme start="20210517230000 -0500" stop="20210518010000 -0500" channel="BEIN SPORT">
-    <title lang="es">Athletic Club Vs. Real Madrid</title>
-  </programme>
-  <programme start="20210518060000 -0500" stop="20210518063000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210518063000 -0500" stop="20210518070000 -0500" channel="BEIN SPORT">
-    <title lang="es">LaLiga 2020-2021: Atlético de Madrid vs. Osasuna</title>
-  </programme>
-  <programme start="20210518073000 -0500" stop="20210518080000 -0500" channel="BEIN SPORT">
-    <title lang="es">LaLiga 2020-2021: Barcelona vs. Celta</title>
-  </programme>
-  <programme start="20210518080000 -0500" stop="20210518083000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210518083000 -0500" stop="20210518090000 -0500" channel="BEIN SPORT">
-    <title lang="es">Ligue 1 2020-2021: Paris Saint-Germain vs. Stade Reims</title>
-  </programme>
-  <programme start="20210518090000 -0500" stop="20210518093000 -0500" channel="BEIN SPORT">
-    <title lang="es">Athletic Club Vs. Real Madrid</title>
-  </programme>
-  <programme start="20210518093000 -0500" stop="20210518100000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210518100000 -0500" stop="20210518120000 -0500" channel="BEIN SPORT">
-    <title lang="es">Betis vs. Huesca</title>
-  </programme>
-  <programme start="20210518120000 -0500" stop="20210518140000 -0500" channel="BEIN SPORT">
-    <title lang="es">Atlético de Madrid vs. Osasuna</title>
-  </programme>
-  <programme start="20210518140000 -0500" stop="20210518160000 -0500" channel="BEIN SPORT">
-    <title lang="es">Getafe vs. Levante</title>
-  </programme>
-  <programme start="20210518160000 -0500" stop="20210518163000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Soccer Xtra</title>
-  </programme>
-  <programme start="20210518163000 -0500" stop="20210518173000 -0500" channel="BEIN SPORT">
-    <title lang="es">La Liga Highlight Zone</title>
-  </programme>
-  <programme start="20210518173000 -0500" stop="20210518180000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Ligue 1 Show</title>
-  </programme>
-  <programme start="20210518180000 -0500" stop="20210518200000 -0500" channel="BEIN SPORT">
-    <title lang="es">Villarreal vs. Sevilla</title>
-  </programme>
-  <programme start="20210518200000 -0500" stop="20210518210000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210518210000 -0500" stop="20210518230000 -0500" channel="BEIN SPORT">
-    <title lang="es">Real Sociedad vs. Valladolid</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210519000000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210519000000 -0500" stop="20210519020000 -0500" channel="BEIN SPORT">
-    <title lang="es">Paris Saint-Germain vs. Stade Reims</title>
-  </programme>
-  <programme start="20210519060000 -0500" stop="20210519070000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210519073000 -0500" stop="20210519080000 -0500" channel="BEIN SPORT">
-    <title lang="es">Superliga 2020-2021: Göztepe vs. Besiktas</title>
-  </programme>
-  <programme start="20210519080000 -0500" stop="20210519090000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210519090000 -0500" stop="20210519093000 -0500" channel="BEIN SPORT">
-    <title lang="es">Superliga 2020-2021: Kayserispor vs. Fenerbahçe</title>
-  </programme>
-  <programme start="20210519093000 -0500" stop="20210519100000 -0500" channel="BEIN SPORT">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210519100000 -0500" stop="20210519120000 -0500" channel="BEIN SPORT">
-    <title lang="es">Cádiz vs. Elche</title>
-  </programme>
-  <programme start="20210519120000 -0500" stop="20210519140000 -0500" channel="BEIN SPORT">
-    <title lang="es">Alavés vs. Granada</title>
-  </programme>
-  <programme start="20210519140000 -0500" stop="20210519160000 -0500" channel="BEIN SPORT">
-    <title lang="es">Valencia vs. Eibar</title>
-  </programme>
-  <programme start="20210519160000 -0500" stop="20210519170000 -0500" channel="BEIN SPORT">
-    <title lang="es">Highlights</title>
-  </programme>
-  <programme start="20210519170000 -0500" stop="20210519170500 -0500" channel="BEIN SPORT">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20210519170500 -0500" stop="20210519191500 -0500" channel="BEIN SPORT">
-    <title lang="es">Palmeiras vs. Defensa y Justicia</title>
-  </programme>
-  <programme start="20210519191500 -0500" stop="20210519192000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20210519192000 -0500" stop="20210519213000 -0500" channel="BEIN SPORT">
-    <title lang="es">Sao Paulo vs. Racing</title>
-  </programme>
-  <programme start="20210519213000 -0500" stop="20210519233000 -0500" channel="BEIN SPORT">
-    <title lang="es">The Strongest vs. Santos</title>
-  </programme>
-  <programme start="20210519233000 -0500" stop="20210520000000 -0500" channel="BEIN SPORT">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20210515013000 -0500" stop="20210515020000 -0500" channel="TELEMUNDO">
-    <title lang="es">Noticiero Telemundo</title>
-  </programme>
-  <programme start="20210515020000 -0500" stop="20210515030000 -0500" channel="TELEMUNDO">
-    <title lang="es">Al Rojo Vivo</title>
-  </programme>
-  <programme start="20210515030000 -0500" stop="20210515050000 -0500" channel="TELEMUNDO">
-    <title lang="es">Corazón valiente</title>
-  </programme>
-  <programme start="20210515050000 -0500" stop="20210515060000 -0500" channel="TELEMUNDO">
-    <title lang="es">Lo mejor de caso cerrado</title>
-  </programme>
-  <programme start="20210515060000 -0500" stop="20210515090000 -0500" channel="TELEMUNDO">
-    <title lang="es">12 corazones</title>
-  </programme>
-  <programme start="20210515090000 -0500" stop="20210515130000 -0500" channel="TELEMUNDO">
-    <title lang="es">Falsa identidad</title>
-  </programme>
-  <programme start="20210515130000 -0500" stop="20210515140000 -0500" channel="TELEMUNDO">
-    <title lang="es">Lo mejor de caso cerrado</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515160000 -0500" channel="TELEMUNDO">
-    <title lang="es">Historias de la vírgen morena</title>
-  </programme>
-  <programme start="20210515160000 -0500" stop="20210515174000 -0500" channel="TELEMUNDO">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
-  <programme start="20210515174000 -0500" stop="20210515183000 -0500" channel="TELEMUNDO">
-    <title lang="es">Decisiones extremas</title>
-  </programme>
-  <programme start="20210515183000 -0500" stop="20210515192000 -0500" channel="TELEMUNDO">
-    <title lang="es">Lo mejor de caso cerrado</title>
-  </programme>
-  <programme start="20210515192000 -0500" stop="20210515213000 -0500" channel="TELEMUNDO">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20210515213000 -0500" stop="20210515233000 -0500" channel="TELEMUNDO">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20210515233000 -0500" stop="20210516002000 -0500" channel="TELEMUNDO">
-    <title lang="es">Decisiones extremas</title>
-  </programme>
   <programme start="20210516002000 -0500" stop="20210516005000 -0500" channel="TELEMUNDO">
     <title lang="es">Noticiero Telemundo</title>
   </programme>
@@ -2738,8 +761,17 @@
   <programme start="20210516050000 -0500" stop="20210516060000 -0500" channel="TELEMUNDO">
     <title lang="es">Historias de la vírgen morena</title>
   </programme>
+  <programme start="20210516060000 -0500" stop="20210516090000 -0500" channel="TELEMUNDO">
+    <title lang="es">12 corazones</title>
+  </programme>
   <programme start="20210516090000 -0500" stop="20210516130000 -0500" channel="TELEMUNDO">
     <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20210516130000 -0500" stop="20210516140000 -0500" channel="TELEMUNDO">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210516140000 -0500" stop="20210516160000 -0500" channel="TELEMUNDO">
+    <title lang="es">Historias de la vírgen morena</title>
   </programme>
   <programme start="20210516160000 -0500" stop="20210516174000 -0500" channel="TELEMUNDO">
     <title lang="es">Decisiones extremas</title>
@@ -2755,92 +787,5 @@
   </programme>
   <programme start="20210516233000 -0500" stop="20210517002000 -0500" channel="TELEMUNDO">
     <title lang="es">Decisiones extremas</title>
-  </programme>
-  <programme start="20210517023000 -0500" stop="20210517041000 -0500" channel="TELEMUNDO">
-    <title lang="es">12 corazones</title>
-  </programme>
-  <programme start="20210517041000 -0500" stop="20210517050000 -0500" channel="TELEMUNDO">
-    <title lang="es">Decisiones extremas</title>
-  </programme>
-  <programme start="20210517050000 -0500" stop="20210517060000 -0500" channel="TELEMUNDO">
-    <title lang="es">Historias de la vírgen morena</title>
-  </programme>
-  <programme start="20210517060000 -0500" stop="20210517070000 -0500" channel="TELEMUNDO">
-    <title lang="es">12 corazones</title>
-  </programme>
-  <programme start="20210517070000 -0500" stop="20210517080000 -0500" channel="TELEMUNDO">
-    <title lang="es">Decisiones</title>
-  </programme>
-  <programme start="20210517080000 -0500" stop="20210517100000 -0500" channel="TELEMUNDO">
-    <title lang="es">El Cuerpo del Deseo</title>
-  </programme>
-  <programme start="20210517100000 -0500" stop="20210517110000 -0500" channel="TELEMUNDO">
-    <title lang="es">Lo mejor de caso cerrado</title>
-  </programme>
-  <programme start="20210517110000 -0500" stop="20210517130000 -0500" channel="TELEMUNDO">
-    <title lang="es">Dame chocolate</title>
-  </programme>
-  <programme start="20210517130000 -0500" stop="20210517133000 -0500" channel="TELEMUNDO">
-    <title lang="es">Noticiero Telemundo</title>
-  </programme>
-  <programme start="20210517133000 -0500" stop="20210517151000 -0500" channel="TELEMUNDO">
-    <title lang="es">Falsa identidad</title>
-  </programme>
-  <programme start="20210517151000 -0500" stop="20210517165000 -0500" channel="TELEMUNDO">
-    <title lang="es">Tierra de Reyes</title>
-  </programme>
-  <programme start="20210517165000 -0500" stop="20210517183000 -0500" channel="TELEMUNDO">
-    <title lang="es">El Cuerpo del Deseo</title>
-  </programme>
-  <programme start="20210517192000 -0500" stop="20210517210000 -0500" channel="TELEMUNDO">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20210517210000 -0500" stop="20210517230000 -0500" channel="TELEMUNDO">
-    <title lang="es">Corazón valiente</title>
-  </programme>
-  <programme start="20210517230000 -0500" stop="20210517235000 -0500" channel="TELEMUNDO">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
-  <programme start="20210517235000 -0500" stop="20210518013000 -0500" channel="TELEMUNDO">
-    <title lang="es">Falsa identidad</title>
-  </programme>
-  <programme start="20210518060000 -0500" stop="20210518070000 -0500" channel="TELEMUNDO">
-    <title lang="es">12 corazones</title>
-  </programme>
-  <programme start="20210518070000 -0500" stop="20210518080000 -0500" channel="TELEMUNDO">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
-  <programme start="20210518080000 -0500" stop="20210518100000 -0500" channel="TELEMUNDO">
-    <title lang="es">El Cuerpo del Deseo</title>
-  </programme>
-  <programme start="20210518100000 -0500" stop="20210518110000 -0500" channel="TELEMUNDO">
-    <title lang="es">Lo mejor de caso cerrado</title>
-  </programme>
-  <programme start="20210518110000 -0500" stop="20210518130000 -0500" channel="TELEMUNDO">
-    <title lang="es">Dame chocolate</title>
-  </programme>
-  <programme start="20210518130000 -0500" stop="20210518133000 -0500" channel="TELEMUNDO">
-    <title lang="es">Noticiero Telemundo</title>
-  </programme>
-  <programme start="20210518133000 -0500" stop="20210518151000 -0500" channel="TELEMUNDO">
-    <title lang="es">Falsa identidad</title>
-  </programme>
-  <programme start="20210518151000 -0500" stop="20210518165000 -0500" channel="TELEMUNDO">
-    <title lang="es">Tierra de Reyes</title>
-  </programme>
-  <programme start="20210518165000 -0500" stop="20210518183000 -0500" channel="TELEMUNDO">
-    <title lang="es">El Cuerpo del Deseo</title>
-  </programme>
-  <programme start="20210518183000 -0500" stop="20210518192000 -0500" channel="TELEMUNDO">
-    <title lang="es">Lo mejor de caso cerrado</title>
-  </programme>
-  <programme start="20210518192000 -0500" stop="20210518210000 -0500" channel="TELEMUNDO">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20210518210000 -0500" stop="20210518230000 -0500" channel="TELEMUNDO">
-    <title lang="es">Corazón valiente</title>
-  </programme>
-  <programme start="20210518230000 -0500" stop="20210518235000 -0500" channel="TELEMUNDO">
-    <title lang="es">Suelta la Sopa</title>
   </programme>
 </tv>
